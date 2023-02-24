@@ -25,18 +25,18 @@ const schemaData   = {
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://Moviewatch Free.vercel.app/"
+    "@id": "https://moviewatchfree.netlify.app/"
     
   },
   "headline": "Moviewatch Free™ Hollywood Bollywood Adult | Watch now the Best TV shows and Movies",
-  "image": "https://Moviewatch Free.vercel.app/logo.png",
+  "image": "https://moviewatchfree.netlify.app/logo.png",
 
   "datePublished": '2023-01-01T09:00:00.000Z',
   "dateModified": '2023-01-01T09:00:00.000Z',
   "author": [{
       "@type": "Person",
       "name": "Moviewatch Free",
-      "url": "https://Moviewatch Free.vercel.app/"
+      "url": "https://moviewatchfree.netlify.app/"
     }],
   
   "publisher": {
@@ -44,7 +44,7 @@ const schemaData   = {
       "name": "Moviewatch Free",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://Moviewatch Free.vercel.app/og_image.jpg"
+        "url": "https://moviewatchfree.netlify.app/og_image.jpg"
       }
     },
   "description": "Moviewatch Free™ Hollywood Bollywood Adult | Watch now the Best TV shows and Movies"
@@ -107,7 +107,7 @@ const searchData   = {
 	<meta name="description" content="Watch
  now the Best TV shows and Movies " />
 	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-  <meta name="keywords" content="Free, Movies, TV shows, legal, streaming, HD, full length, full movie, latest movies, online tv, latest free movies, watch latest movies online, latest full movies online" />
+  <meta name="keywords" content="Moviewatch Free,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
 	<meta name="revisit-after" content="1 days" />
 	<meta property="og:locale" content="en_US" />
   <meta name="robots" content="index, follow" />
@@ -119,26 +119,26 @@ const searchData   = {
 	<meta property="og:image:width" content="720"/>
 	<meta property="og:title" content="Moviewatch Free™ | Watch now the Best TV shows and Movies " />
 	<meta property="og:description" content="Watch now the Best TV shows and Movies " />
-	<meta property="og:url" content="https://Moviewatch Free.vercel.app/" />
+	<meta property="og:url" content="https://moviewatchfree.netlify.app/" />
 	<meta property="og:image:type" content="image/jpeg" />
-	<meta property="og:image" content="https://Moviewatch Free.vercel.app/og_image.jpg" />
-	<meta property="og:image:secure_url" content="https://Moviewatch Free.vercel.app/og_image.jpg" />
+	<meta property="og:image" content="https://moviewatchfree.netlify.app/og_image.jpg" />
+	<meta property="og:image:secure_url" content="https://moviewatchfree.netlify.app/og_image.jpg" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="Moviewatch Free™ " />
 	<meta name="twitter:description" content=" Watch now the Best TV shows and Movies " />
-	<meta name="twitter:image" content="https://Moviewatch Free.vercel.app/og_image.jpg" />
+	<meta name="twitter:image" content="https://moviewatchfree.netlify.app/og_image.jpg" />
 
-  <link rel="canonical" href="https://Moviewatch Free.vercel.app/Page2" />
+  <link rel="canonical" href="https://moviewatchfree.netlify.app/Page2" />
   <meta name="google-site-verification" content="WQh7UdOVLh--PluVaU8U1m1IHrAPjaWmaItVOdek8tg" />
-  <link rel="alternate" hreflang="en-us" 	href="https://Moviewatch Free.vercel.app/"/>
-	<link rel="alternate" hreflang="en-gb" 	href="https://Moviewatch Free.vercel.app/"/>
-	<link rel="alternate" hreflang="en-ca" 	href="https://Moviewatch Free.vercel.app/"/>
-	<link rel="alternate" hreflang="en-au" 	href="https://Moviewatch Free.vercel.app/"/>
-	<link rel="alternate" hreflang="en-se" 	href="https://Moviewatch Free.vercel.app/"/>
-	<link rel="alternate" hreflang="en-fr" 	href="https://Moviewatch Free.vercel.app/"/>
-	<link rel="alternate" hreflang="en-dk" 	href="https://Moviewatch Free.vercel.app/"/>
-	<link rel="alternate" hreflang="en-no" 	href="https://Moviewatch Free.vercel.app/"/>
-	<link rel="alternate" hreflang="x-default" 	href="https://Moviewatch Free.vercel.app/"/>
+  <link rel="alternate" hreflang="en-us" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="en-gb" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="en-ca" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="en-au" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="en-se" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="en-fr" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="en-dk" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="en-no" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="x-default" 	href="https://moviewatchfree.netlify.app/"/>
 
  
       </Head>
@@ -452,7 +452,7 @@ const searchData   = {
       </div>
       <div className="p-4 md:w-1/3 flex flex-col text-center items-center">
         <div className="w-70 h-50 inline-flex items-center justify-center  text-indigo-500 mb-5 flex-shrink-0">
-        <a href="../../Adult/LustDaries-2023/LUDAds">
+        <a href="../../Adult/LustDaries-2023/LustDaries">
      
 <Image className="scale-100 hover:scale-110 ease-in duration-500 cursor-pointer rounded-3xl blur-invert  drop-shadowrounded-3xl"  src='/lust-diaries-pehla-pyar-2023.webp' alt='LUST DARIES... - 2023' width={400} height={300}  loading="lazy"/></a>
         </div>
@@ -470,14 +470,14 @@ const searchData   = {
              <div className="p-4 mx-5 py-1flex flex-row text-red-600 text-center items-center">
        <strong>GENRE :</strong> <strong>ADULT, HOT +18</strong>
        </div>
-       <a href="../../Adult/LustDaries-2023/LUDAds">
+       <a href="../../Adult/LustDaries-2023/LustDaries">
           <button className="flex mx-auto mt-10 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600  text-lg scale-100 hover:scale-110 ease-in duration-500 cursor-pointer rounded-3xl">Watch Now</button></a>
          
         </div>
       </div>
       <div className="p-4 md:w-1/3 flex flex-col text-center items-center">
         <div className="w-70 h-50 inline-flex items-center justify-center  text-indigo-500 mb-5 flex-shrink-0">
-        <a href="../../Adult/Imli-2023/IMIAds">
+        <a href="../../Adult/Imli-2023/Imli">
      
 <Image className="scale-100 hover:scale-110 ease-in duration-500 cursor-pointer rounded-3xl blur-invert  drop-shadowrounded-3xl"  src='/Imli-P2-2023.webp' alt='IMLI - 2023' width={400} height={300}  loading="lazy"/></a>
         </div>
@@ -495,14 +495,14 @@ const searchData   = {
              <div className="p-4 mx-5 py-1flex text-red-600 flex-row text-center items-center">
        <strong>GENRE :</strong> <strong>ADULT, HOT +18</strong>
        </div>
-       <a href="../../Adult/Imli-2023/IMIAds">
+       <a href="../../Adult/Imli-2023/Imli">
           <button className="flex mx-auto mt-10 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600  text-lg scale-100 hover:scale-110 ease-in duration-500 cursor-pointer rounded-3xl">Watch Now</button></a>
          
         </div>
       </div>
       <div className="p-4 md:w-1/3 flex flex-col text-center items-center">
         <div className="w-70 h-50 inline-flex items-center justify-center  text-indigo-500 mb-5 flex-shrink-0">
-        <a href="../../Adult/TeekhiChutteny-2022/TCTAds">
+        <a href="../../Adult/TeekhiChutteny-2022/TeekhiChutteny">
      
 <Image className="scale-100 hover:scale-110 ease-in duration-500 cursor-pointer rounded-3xl blur-invert  drop-shadowrounded-3xl"  src='/teekhi-chutney-part2-2022.webp' alt='TEEKHI CHUTENY PART 2 - 2023' width={400} height={300}  loading="lazy"/></a>
         </div>
@@ -520,14 +520,14 @@ const searchData   = {
              <div className="p-4 mx-5 py-1flex text-red-600 flex-row text-center items-center">
        <strong>GENRE :</strong> <strong>ADULT, HOT +18</strong>
        </div>
-       <a href="../../Adult/TeekhiChutteny-2022/TCTAds">
+       <a href="../../Adult/TeekhiChutteny-2022/TeekhiChutteny">
           <button className="flex mx-auto mt-10 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600  text-lg scale-100 hover:scale-110 ease-in duration-500 cursor-pointer rounded-3xl">Watch Now</button></a>
          
         </div>
       </div>
       <div className="p-4 md:w-1/3 flex flex-col text-center items-center">
         <div className="w-70 h-50 inline-flex items-center justify-center  text-indigo-500 mb-5 flex-shrink-0">
-        <a href="../../Adult/Darji-2022/DAJAds">
+        <a href="../../Adult/Darji-2022/Darji">
      
 <Image className="scale-100 hover:scale-110 ease-in duration-500 cursor-pointer rounded-3xl blur-invert  drop-shadowrounded-3xl"  src='/darji-2022.webp' alt='DARJI - 2023' width={400} height={300}  loading="lazy"/></a>
         </div>
@@ -545,7 +545,7 @@ const searchData   = {
              <div className="p-4 mx-5 py-1flex flex-row text-red-600 text-center items-center">
        <strong>GENRE :</strong> <strong>ADULT, HOT +18</strong>
        </div>
-       <a href="../../Adult/Darji-2022/DAJAds">
+       <a href="../../Adult/Darji-2022/Darji">
           <button className="flex mx-auto mt-10 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600  text-lg scale-100 hover:scale-110 ease-in duration-500 cursor-pointer rounded-3xl">Watch Now</button></a>
          
         </div>
