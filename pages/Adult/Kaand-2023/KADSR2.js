@@ -83,9 +83,8 @@ function togglePopup() {
 <meta name="twitter:title" content="Watch Kaand Episode 2 (2023) | Movie Watch Free™" />
 <meta name="twitter:image" content="https://moviewatchfree.netlify.app/kaand-2023.webp" />
 <meta name="description" content="Watch Kaand Episode 2 Full Movie Online on Movie Watch Free™, You can also download Kaand Episode 2 (2023) in full HD quality to watch later offline." />
-
-
- 
+<script src="../../propler/ads.js" defer></script>
+<link rel="canonical" href="https://moviewatchfree.netlify.app/Adult/Kaand-2023/" />
 
       </Head>
       <div className="bg-[#1a202c]">

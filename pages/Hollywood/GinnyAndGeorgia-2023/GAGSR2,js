@@ -25,26 +25,26 @@ const schemaData   = {
     "@id": "https://moviewatchfree.netlify.app/Hollywood/GinnyAndGeorgia-2023/GinnyAndGeorgia"
     
   },
-  "headline": "Ginny And Georgia - 2023 | Moviewatch Free™",
+  "headline": "Ginny And Georgia - 2023 | Movie Watch Free™",
   "image": "https://moviewatchfree.netlify.app/ginny-georgia-2023.webp",
 
   "datePublished": '2023-01-01T09:00:00.000Z',
   "dateModified": '2023-01-01T09:00:00.000Z',
   "author": [{
       "@type": "Person",
-      "name": "Moviewatch Free",
+      "name": "Movie Watch Free",
       "url": "https://moviewatchfree.netlify.app/"
     }],
   
   "publisher": {
       "@type": "Organization",
-      "name": "Moviewatch Free",
+      "name": "Movie Watch Free",
       "logo": {
         "@type": "ImageObject",
         "url": "https://moviewatchfree.netlify.app/og_image.jpg"
       }
     },
-  "description": "Moviewatch Free™ Ginny And Georgia - 2023 | Watch now the Best TV shows and Movies"
+  "description": "Movie Watch Free™ Ginny And Georgia - 2023 | Watch now the Best TV shows and Movies"
 
 };
 const scrollSearch = myKey => {
@@ -59,22 +59,22 @@ const scrollSearch = myKey => {
     dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
   />
      <Head>
-     <title>Watch Ginny And Georgia (2023) | Moviewatch Free™</title>
+     <title>Watch Ginny And Georgia (2023) | Movie Watch Free™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Free, Movies, TV shows, legal, streaming, HD, full length, full movie, latest movies, online tv, latest free movies, watch latest movies online, latest full movies online" />
+<meta name="keywords" content="Movie Watch Free,uwatch4free,mxplayermovies,streaming,latest movies,online tv,latest free movies,watch latest movies online,uwatch4free,latest full movies online" />
 <meta property="og:locale" content="en_US" />
-<meta property="og:site_name" content="Moviewatch Free™ | Watch Movies and TV-Series Online Free" />
+<meta property="og:site_name" content="Movie Watch Free™ | Watch Movies and TV-Series Online Free" />
 <meta property="og:type" content="movie" />
-<meta property="og:title" content="Watch Ginny And Georgia (2023) | Moviewatch Free™" />
+<meta property="og:title" content="Watch Ginny And Georgia (2023) | Movie Watch Free™" />
 <meta property="og:url" content="https://moviewatchfree.netlify.app/Hollywood/GinnyAndGeorgia-2023/GinnyAndGeorgia" />
 <meta property="og:image" content="https://moviewatchfree.netlify.app/ginny-georgia-2023.webp" />
 <meta property="og:image:secure_url" content="https://moviewatchfree.netlify.app/" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Watch Ginny And Georgia (2023) | Moviewatch Free™" />
+<meta name="twitter:title" content="Watch Ginny And Georgia (2023) | Movie Watch Free™" />
 <meta name="twitter:image" content="https://moviewatchfree.netlify.app/ginny-georgia-2023.webp" />
-<meta name="description" content="Watch Ginny And Georgia Full Movie Online on Moviewatch Free™, You can also download Ginny And Georgia (2023) in full HD quality to watch later offline." />
+<meta name="description" content="Watch Ginny And Georgia Full Movie Online on Movie Watch Free™, You can also download Ginny And Georgia (2023) in full HD quality to watch later offline." />
 
 <link rel="canonical" href="https://moviewatchfree.netlify.app/Hollywood/GinnyAndGeorgia-2023/" />
  

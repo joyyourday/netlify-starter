@@ -18,87 +18,10 @@ const scrollSearch = myKey => {
   frontMatter.handleSearch(myKey)
 };
 
-const schemaData   = {
-  "@context": "https://schema.org",
-  
-  "@type": "Article",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://moviewatchfree.netlify.app/"
-    
-  },
-  "headline": "Movie Watch Free™ Hollywood Bollywood Adult | Watch now the Best TV shows and Movies",
-  "image": "https://moviewatchfree.netlify.app/logo.png",
-
-  "datePublished": '2023-01-01T09:00:00.000Z',
-  "dateModified": '2023-01-01T09:00:00.000Z',
-  "author": [{
-      "@type": "Person",
-      "name": "Movie Watch Free",
-      "url": "https://moviewatchfree.netlify.app/"
-    }],
-  
-  "publisher": {
-      "@type": "Organization",
-      "name": "Movie Watch Free",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://moviewatchfree.netlify.app/og_image.jpg"
-      }
-    },
-  "description": "Movie Watch Free™ Hollywood Bollywood Adult | Watch now the Best TV shows and Movies"
-
-};
-const maxData   = {
-
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [{
-    "@type": "ListItem",
-    "position": 1,
-    "name": "Hollywood",
-    "item": "https://moviewatchfree.netlify.app/Hollywood/hollywood"
-  },{
-    "@type": "ListItem",
-    "position": 2,
-    "name": "Bollywood",
-    "item": "https://moviewatchfree.netlify.app/Bollywood/bollywood"
-  },{
-    "@type": "ListItem",
-    "position": 3,
-    "name": "Adult",
-    "item": "https://moviewatchfree.netlify.app/Adult/adult"
-  }]
-};
-const searchData   = {
-  "@context": "https://schema.org",
-      "@type": "WebSite",
-      "url": "https://www.example.com/",
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": {
-          "@type": "EntryPoint",
-          "urlTemplate": "https://query.example.com/search?q={search_term_string}"
-        },
-        "query-input": "required name=search_term_string"
-      
-  }
-  };
   return (
   
     <div >
-   <script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
-  />
-     <script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{ __html: JSON.stringify(maxData) }}
-  />
-<script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{ __html: JSON.stringify(searchData) }}
-  />
+   
       <div className="bg-[#1a202c] ">
       <Head>
         <title>Movie Watch Free™</title>
@@ -106,7 +29,7 @@ const searchData   = {
         <meta name="revisit-after" content="1 days" />
 	<meta name="description" content="Watch now the Best TV shows and Movies " />
 	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-  <meta name="keywords" content="free movies,watch movies,movie watch free,streaming,latest movies,online tv,latest free movies,watch latest movies online,hd movies,latest full movies online" />
+  <meta name="keywords" content="mxplayer,mxplayer.in,hd movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
 	<meta property="og:locale" content="en_US" />
 	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
 	<meta property="og:site_name" content="Movie Watch Free™ | Watch now the Best TV shows and Movies " />
@@ -135,7 +58,7 @@ const searchData   = {
 	<link rel="alternate" hreflang="en-dk" 	href="https://moviewatchfree.netlify.app/"/>
 	<link rel="alternate" hreflang="en-no" 	href="https://moviewatchfree.netlify.app/"/>
 	<link rel="alternate" hreflang="x-default" 	href="https://moviewatchfree.netlify.app/"/>
-
+  <meta name="clckd" content="32a5af738fbaad27a87e341bea8b9726" />
       </Head>
        
       <main>

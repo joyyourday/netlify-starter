@@ -67,7 +67,7 @@ function togglePopup() {
      <Head>
      <title>Watch Farebi Yaar Episode 1 (2023) | Movie Watch Free™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="free movies,watch movies,movie watch free,streaming,latest movies,online tv,latest free movies,watch latest movies online,hd movies,latest full movies online" />
+<meta name="keywords" content="mxplayer,mxplayer.in,hd movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
 
 <meta property="og:locale" content="en_US" />
 <meta property="og:site_name" content="Movie Watch Free™ | Watch Movies and TV-Series Online Free" />
@@ -83,7 +83,7 @@ function togglePopup() {
 <meta name="twitter:title" content="Watch Farebi Yaar Episode 1 (2023)  | Movie Watch Free™" />
 <meta name="twitter:image" content="https://moviewatchfree.netlify.app/farebi-yaar-part-1-2023.webp" />
 <meta name="description" content="Watch Farebi Yaar Episode 1 Full Movie Online on Movie Watch Free™, You can also download Farebi Yaar Episode 1 (2023) in full HD quality to watch later offline." />
-
+<script src="../../propler/ads.js" defer></script>
 <link rel="canonical" href="https://moviewatchfree.netlify.app/Adult/FarebiYarr-2023/" />
  
 

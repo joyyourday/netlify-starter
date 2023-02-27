@@ -10,7 +10,7 @@ const contact = () => {
 	<meta name="description" content="Watch
  now the Best TV shows and Movies " />
 	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-	<meta name="keywords" content="free movies,watch movies,movie watch free,streaming,latest movies,online tv,latest free movies,watch latest movies online,hd movies,latest full movies online" />
+	<meta name="keywords" content="mxplayer,mxplayer.in,hd movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
 	<meta name="revisit-after" content="1 days" />
 	<meta property="og:locale" content="en_US" />
   <meta name="robots" content="index, follow" />
@@ -30,27 +30,18 @@ const contact = () => {
 	<meta name="twitter:title" content="Movie Watch Free™ " />
 	<meta name="twitter:description" content=" Watch now the Best TV shows and Movies " />
 	<meta name="twitter:image" content="https://moviewatchfree.netlify.app/og_image.jpg" />
-  <script async="async" data-cfasync="false" src="//ophoacit.com/1?z=5720166"></script>
+  <script src="../../propler/ads.js" defer></script> 
   
   <meta name="google-site-verification" content="WQh7UdOVLh--PluVaU8U1m1IHrAPjaWmaItVOdek8tg" />
-  <link rel="alternate" hreflang="en-us" 
-	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="en-gb" 
-	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="en-ca" 
-	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="en-au" 
-	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="en-se" 
-	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="en-fr" 
-	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="en-dk" 
-	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="en-no" 
-	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="x-default" 
-	href="https://moviewatchfree.netlify.app/"/>
+  <link rel="alternate" hreflang="en-us" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="en-gb" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="en-ca" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="en-au" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="en-se" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="en-fr" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="en-dk" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="en-no" 	href="https://moviewatchfree.netlify.app/"/>
+	<link rel="alternate" hreflang="x-default" 	href="https://moviewatchfree.netlify.app/"/>
       </Head>
 <div class="container my-24 px-6 mx-auto">
 
