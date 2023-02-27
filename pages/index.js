@@ -29,7 +29,7 @@ const scrollSearch = myKey => {
         <meta name="revisit-after" content="1 days" />
 	<meta name="description" content="Watch now the Best TV shows and Movies " />
 	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-  <meta name="keywords" content="mxplayer,mxplayer.in,hd movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
+  <meta name="keywords" content="free movies,watch movies,movie watch free,streaming,latest movies,online tv,latest free movies,watch latest movies online,hd movies,latest full movies online" />
 	<meta property="og:locale" content="en_US" />
 	<link rel="icon" type="image/x-icon" href="/favicon.ico" />
 	<meta property="og:site_name" content="Movie Watch Free™ | Watch now the Best TV shows and Movies " />
