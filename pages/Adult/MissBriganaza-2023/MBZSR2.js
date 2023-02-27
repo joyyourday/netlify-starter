@@ -7,6 +7,7 @@ import styles from '@styles/video-player.module.css'
 import SkipAds from '@components/SkipAds';
 
 
+
 const MBZSR2  = () => {
   useEffect(() => {
     const handleContextmenu = e => {
@@ -26,32 +27,37 @@ const schemaData   = {
     "@id": "https://moviewatchfree.netlify.app/Adult/MissBriganaza-2023/MissBriganaza"
     
   },
-  "headline": "Miss Briganaza (2023) | Moviewatch Free™",
+  "headline": "Miss Briganaza (2023) | Movie Watch Free™",
   "image": "https://moviewatchfree.netlify.app/miss-briganaza-2023.webp",
 
   "datePublished": '2023-01-01T09:00:00.000Z',
   "dateModified": '2023-01-01T09:00:00.000Z',
   "author": [{
       "@type": "Person",
-      "name": "Moviewatch Free",
+      "name": "Movie Watch Free",
       "url": "https://moviewatchfree.netlify.app/"
     }],
   
   "publisher": {
       "@type": "Organization",
-      "name": "Moviewatch Free",
+      "name": "Movie Watch Free",
       "logo": {
         "@type": "ImageObject",
         "url": "https://moviewatchfree.netlify.app/og_image.jpg"
       }
     },
-  "description": "Moviewatch Free™ Miss Briganaza (2023) | Watch now the Best TV shows and Movies"
+  "description": "Movie Watch Free™ Miss Briganaza (2023) | Watch now the Best TV shows and Movies"
 
 };
 const scrollSearch = myKey => {
   window.scrollTo(0, 0);
   frontMatter.handleSearch(myKey)
 };
+const [showPopup, setShowPopup] = useState(false);
+
+function togglePopup() {
+  setShowPopup(!showPopup);
+}
 
   return (
     <div>
@@ -60,23 +66,24 @@ const scrollSearch = myKey => {
     dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
   />
      <Head>
-     <title>Watch Miss Briganaza (2023) | Moviewatch Free™</title>
+     <title>Watch Miss Briganaza (2023) | Movie Watch Free™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Free, Movies, TV shows, legal, streaming, HD, full length, full movie, latest movies, online tv, latest free movies, watch latest movies online, latest full movies online" />
+<meta name="keywords" content="free movies,watch movies,movie watch free,streaming,latest movies,online tv,latest free movies,watch latest movies online,hd movies,latest full movies online" />
 
 <meta property="og:locale" content="en_US" />
-<meta property="og:site_name" content="Moviewatch Free™ | Watch Movies and TV-Series Online Free" />
+<meta property="og:site_name" content="Movie Watch Free™ | Watch Movies and TV-Series Online Free" />
 <meta property="og:type" content="movie" />
-<meta property="og:title" content="Watch Miss Briganaza (2023) | Moviewatch Free™" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta property="og:title" content="Watch Miss Briganaza (2023) | Movie Watch Free™" />
 <meta property="og:url" content="https://moviewatchfree.netlify.app/Adult/MissBriganaza-2023/MissBriganaza" />
 <meta property="og:image" content="https://moviewatchfree.netlify.app/miss-briganaza-2023.webp" />
 <meta property="og:image:secure_url" content="https://moviewatchfree.netlify.app/" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Watch Miss Briganaza (2023) | Moviewatch Free™" />
+<meta name="twitter:title" content="Watch Miss Briganaza (2023) | Movie Watch Free™" />
 <meta name="twitter:image" content="https://moviewatchfree.netlify.app/miss-briganaza-2023.webp" />
-<meta name="description" content="Watch Miss Briganaza Full Movie Online on Moviewatch Free™, You can also download  Miss Briganaza (2023) in full HD quality to watch later offline." />
+<meta name="description" content="Watch Miss Briganaza Full Movie Online on Movie Watch Free™, You can also download  Miss Briganaza (2023) in full HD quality to watch later offline." />
 
 <link rel="canonical" href="https://moviewatchfree.netlify.app/Adult/MissBriganaza-2023/" />
  
@@ -87,10 +94,10 @@ const scrollSearch = myKey => {
     <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch Miss Briganaza (2023) </h1>
 
     <div className={styles['iframe-container']}>
-      <iframe src="https://dood.yt/e/9lxjw6mmyfm5" />
+      <iframe className="  rounded-3xl  mr-8 flex  border-1 border-blue-600 bg-gray-600 p-2 " webkitAllowFullScreen mozallowfullscreen allowFullScreen src="https://dood.yt/e/9lxjw6mmyfm5" />
     </div>    
     <h3 className="mb-9 text-bg  text-black-500 text-red-600 text-center xl:px-4 ">*Note: Pls Select the in the Player to Change your Language of your Choice and Setting  to Change the Quality of Video.</h3>
-    <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 rounded-lg group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110 ease-in duration-500 cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0 " >
+   <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >
     <a href="../MissBriganaza-2023/MissBriganaza" > 
       <h1 >Click To Watch Miss Briganaza (2023) Server 1</h1></a></button>
     <div className="flex flex-col space-y-4 m-8">
@@ -111,18 +118,69 @@ const scrollSearch = myKey => {
 <h2 className="text-medium font-sm text-center dark:text-white text-white "><strong>Starring:</strong> NA.</h2>
 <h2 className="text-medium font-sm text-center dark:text-white text-white"><strong>Description:</strong> Miss Briganaza (2023) is Hot Adult WoW Web series.</h2>
 
-  <h2 className="text-4xl font-bold text-center text-white  ">Watch Offical Trailer</h2>
-  <div className={styles['iframe-container']}>
-      <iframe src="https://sbhight.com/e/cma5z6i7ciop.html" />
-    </div> 
- 
+<div className="flex flex-col py-10  text-blue-600 text-center items-center justify-center">
+
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 "  onClick={togglePopup} >
+
+        <h2 >Watch Offical Trailer</h2></button>
+        </div>
+   
+        {showPopup && (
+        <div className="popup-overlay">
+         
+         <div className="popup ">
+               <button className="close-button" onClick={togglePopup}>
+               <h2 className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 " >  Close</h2>  
+          </button>
+          <h2 className="text-2xl font-bold" >Offical Trailer Miss Briganaza (2023) </h2>
+           <div className={styles['iframe-container']}>
+ <iframe className="  rounded-3xl  mr-8 flex  border-1 border-blue-600 bg-gray-600 p-2 " webkitAllowFullScreen mozallowfullscreen allowFullScreen src="https://sbhight.com/e/cma5z6i7ciop.html" />
+                   
+             </div>
+          </div> </div>
+       
+      )}
+
+      <style jsx>{`
+        .popup-overlay {
+          position: fixed;
+          top: 0;
+          left: 0;
+          right: 0;
+          bottom: 0;
+          background-color: rgba(0, 0, 0, 0.5);
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+             .popup {
+          width: 800px;
+          background-color: gray;
+          padding: 10px;
+          border-radius: 10px;
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+          animation: slide-down 0.5s ease;
+        }
+
+       
+        @keyframes slide-down {
+          from {
+            transform: translateY(-100%);
+          }
+          to {
+            transform: translateY(0);
+          }
+        }
+      `}</style>
     </div>
+
 
     <div className="flex flex-col py-10  text-blue-600 text-center items-center justify-center">
  
  <h3  className="text-xl font-bold leading-normal mt-0 mb-2 text-blue-600 "> Miss Briganaza (2023) </h3>
  <Link href="../../Adult/MissBriganaza-2023/DownloadMBZ1">
- <button className="relative inline-flex items-center rounded-3xl justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 rounded-lg group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-white scale-100 hover:scale-110 ease-in duration-500 cursor-pointer">  
+ <button className="relative inline-flex items-center rounded-3xl justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900  group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-white scale-100 hover:scale-110 ease-in duration-500 cursor-pointer">  
  <span className="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0  ">
  Download 
  </span>
@@ -130,7 +188,7 @@ const scrollSearch = myKey => {
 
 <h3 className="text-xl font-bold leading-normal mt-0 mb-2 text-blue-600 ">  Miss Briganaza (2023)</h3>
 <Link href="../../Adult/MissBriganaza-2023/DownloadMBZ2">
-<button className="relative inline-flex items-center rounded-3xl  justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 rounded-lg group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-white scale-100 hover:scale-110 ease-in duration-500 cursor-pointer">  
+<button className="relative inline-flex items-center rounded-3xl  justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900  group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-white scale-100 hover:scale-110 ease-in duration-500 cursor-pointer">  
 <span className="relative px-5 py-2.5  transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0 ">
 Download 
 </span>
@@ -138,7 +196,7 @@ Download
 
 <Link href="../../AdultAds">
   <h3 className="text-medium font-bold py-10 leading-normal m-10 mt-0 mb-2 text-blue-600 "> 
-  <button className="relative inline-flex items-center rounded-3xl justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 rounded-lg group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110 ease-in duration-500 cursor-pointer">  
+  <button className="relative inline-flex items-center rounded-3xl justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900  group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110 ease-in duration-500 cursor-pointer">  
   <span className="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0 ">
  
   Back To Adult Section

@@ -5,29 +5,29 @@ const contact = () => {
   return (
     <div>
         <Head>
-        <title>Moviewatch Free™ Contact Us</title>
+        <title>Movie Watch Free™ Contact Us</title>
       
 	<meta name="description" content="Watch
  now the Best TV shows and Movies " />
 	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-	<meta name="keywords" content="Free, Movies, TV shows, legal, streaming, HD, full length, full movie, latest movies, online tv, latest free movies, watch latest movies online, latest full movies online" />
+	<meta name="keywords" content="free movies,watch movies,movie watch free,streaming,latest movies,online tv,latest free movies,watch latest movies online,hd movies,latest full movies online" />
 	<meta name="revisit-after" content="1 days" />
 	<meta property="og:locale" content="en_US" />
   <meta name="robots" content="index, follow" />
 	
 	<link rel="icon" type="image/x-icon" href="favicon.ico" />
-	<meta property="og:site_name" content="Moviewatch Free™ | Watch now the Best TV shows and Movies " />
+	<meta property="og:site_name" content="Movie Watch Free™ | Watch now the Best TV shows and Movies " />
 	<meta property="og:type" content="website" />
 	<meta property="og:image:height" content="1280"/>
 	<meta property="og:image:width" content="720"/>
-	<meta property="og:title" content="Moviewatch Free™ | Watch now the Best TV shows and Movies " />
+	<meta property="og:title" content="Movie Watch Free™ | Watch now the Best TV shows and Movies " />
 	<meta property="og:description" content="Watch now the Best TV shows and Movies " />
 	<meta property="og:url" content="https://moviewatchfree.netlify.app/" />
 	<meta property="og:image:type" content="image/jpeg" />
 	<meta property="og:image" content="https://moviewatchfree.netlify.app/og_image.jpg" />
 	<meta property="og:image:secure_url" content="https://moviewatchfree.netlify.app/og_image.jpg" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="Moviewatch Free™ " />
+	<meta name="twitter:title" content="Movie Watch Free™ " />
 	<meta name="twitter:description" content=" Watch now the Best TV shows and Movies " />
 	<meta name="twitter:image" content="https://moviewatchfree.netlify.app/og_image.jpg" />
   <script async="async" data-cfasync="false" src="//ophoacit.com/1?z=5720166"></script>

@@ -23,26 +23,26 @@ const schemaData   = {
     "@id": "https://moviewatchfree.netlify.app/Adult/adult"
     
   },
-  "headline": "Moviewatch Free™ Adult | Watch now the Best TV shows and Movies",
+  "headline": "Movie Watch Free™ Adult | Watch now the Best TV shows and Movies",
   "image": "https://moviewatchfree.netlify.app/logo.png",
 
   "datePublished": '2023-01-01T09:00:00.000Z',
   "dateModified": '2023-01-01T09:00:00.000Z',
   "author": [{
       "@type": "Person",
-      "name": "Moviewatch Free",
+      "name": "Movie Watch Free",
       "url": "https://moviewatchfree.netlify.app/Adult/adult"
     }],
   
   "publisher": {
       "@type": "Organization",
-      "name": "Moviewatch Free",
+      "name": "Movie Watch Free",
       "logo": {
         "@type": "ImageObject",
         "url": "https://moviewatchfree.netlify.app/og_image.jpg"
       }
     },
-  "description": "Moviewatch Free™ Adult | Watch now the Best TV shows and Movies"
+  "description": "Movie Watch Free™ Adult | Watch now the Best TV shows and Movies"
 
 };
 const maxData   = {
@@ -103,28 +103,28 @@ const scrollSearch = myKey => {
   />
       <div className="bg-[#1a202c]">
       <Head>
-        <title>Moviewatch Free™ Adult</title>
+        <title>Movie Watch Free™ Adult</title>
       
 	<meta name="description" content="Watch now the Best TV shows and Movies " />
 	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-  <meta name="keywords" content="Free, Movies, TV shows, legal, streaming, HD, full length, full movie, latest movies, online tv, latest free movies, watch latest movies online, latest full movies online" />
+  <meta name="keywords" content="free movies,watch movies,movie watch free,streaming,latest movies,online tv,latest free movies,watch latest movies online,hd movies,latest full movies online" />
 	<meta name="revisit-after" content="1 days" />
 	<meta property="og:locale" content="en_US" />
   <meta name="robots" content="index, follow" />
 	
 	<link rel="icon" type="image/x-icon" href="favicon.ico" />
-	<meta property="og:site_name" content="Moviewatch Free™ | Watch now the Best TV shows and Movies " />
+	<meta property="og:site_name" content="Movie Watch Free™ | Watch now the Best TV shows and Movies " />
 	<meta property="og:type" content="website" />
 	<meta property="og:image:height" content="1280"/>
 	<meta property="og:image:width" content="720"/>
-	<meta property="og:title" content="Moviewatch Free™ | Watch now the Best TV shows and Movies " />
+	<meta property="og:title" content="Movie Watch Free™ | Watch now the Best TV shows and Movies " />
 	<meta property="og:description" content="Watch now the Best TV shows and Movies " />
 	<meta property="og:url" content="https://moviewatchfree.netlify.app/" />
 	<meta property="og:image:type" content="image/jpeg" />
 	<meta property="og:image" content="https://moviewatchfree.netlify.app/og_image.jpg" />
 	<meta property="og:image:secure_url" content="https://moviewatchfree.netlify.app/og_image.jpg" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="Moviewatch Free™ " />
+	<meta name="twitter:title" content="Movie Watch Free™ " />
 	<meta name="twitter:description" content=" Watch now the Best TV shows and Movies " />
 	<meta name="twitter:image" content="https://moviewatchfree.netlify.app/og_image.jpg" />
 
@@ -146,7 +146,7 @@ const scrollSearch = myKey => {
         <div>
       <div className="flex flex-col items-center justify-center space-y-12">
     <section className="text-gray-600 body-font">
-    <h1 className="mb-4 font-bold leading-none tracking-tight text-white my-2 text-center md:text-4xl dark:text-white">Moviewatch Free™ Watch Latest Movies</h1>
+    <h1 className="mb-4 font-bold leading-none tracking-tight text-white my-2 text-center md:text-4xl dark:text-white">Movie Watch Free™ Watch Latest Movies</h1>
       <div className="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4 md:space-y-0 space-y-6">
       <div className="p-4 md:w-1/3 flex flex-col text-center items-center">
         <div className="w-70 h-50 inline-flex items-center justify-center  text-indigo-500 mb-5 flex-shrink-0">
