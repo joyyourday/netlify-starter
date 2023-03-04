@@ -5,43 +5,45 @@ const contact = () => {
   return (
     <div>
         <Head>
-        <title>Movie Watch Free™ Contact Us</title>
+        <title>Watch Free Movie™ Contact Us</title>
       
 	<meta name="description" content="Watch
  now the Best TV shows and Movies " />
 	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-	<meta name="keywords" content="free movies,watch movies,movie watch free,streaming,latest movies,online tv,latest free movies,watch latest movies online,hd movies,latest full movies online" />
+	 <meta name="keywords" content="watchfreemovie,watch freemovies,watchfree movies online,u watch freemovies,watchfreemovie online.streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
 	<meta name="revisit-after" content="1 days" />
-	<meta property="og:locale" content="en_US" />
+	<meta property="og:locale" content="en_US" />   
+<meta name="robots" content="index, follow" />  
+<meta name="revisit-after" content="1 days" />
   <meta name="robots" content="index, follow" />
 	
 	<link rel="icon" type="image/x-icon" href="favicon.ico" />
-	<meta property="og:site_name" content="Movie Watch Free™ | Watch now the Best TV shows and Movies " />
+	<meta property="og:site_name" content="Watch Free Movie™ | Watch now the Best TV shows and Movies " />
 	<meta property="og:type" content="website" />
 	<meta property="og:image:height" content="1280"/>
 	<meta property="og:image:width" content="720"/>
-	<meta property="og:title" content="Movie Watch Free™ | Watch now the Best TV shows and Movies " />
+	<meta property="og:title" content="Watch Free Movie™ | Watch now the Best TV shows and Movies " />
 	<meta property="og:description" content="Watch now the Best TV shows and Movies " />
-	<meta property="og:url" content="https://moviewatchfree.netlify.app/" />
+	<meta property="og:url" content="https://watchfreemovie.netlify.app/" />
 	<meta property="og:image:type" content="image/jpeg" />
-	<meta property="og:image" content="https://moviewatchfree.netlify.app/og_image.jpg" />
-	<meta property="og:image:secure_url" content="https://moviewatchfree.netlify.app/og_image.jpg" />
+	<meta property="og:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
+	<meta property="og:image:secure_url" content="https://watchfreemovie.netlify.app/og_image.jpg" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="Movie Watch Free™ " />
+	<meta name="twitter:title" content="Watch Free Movie™ " />
 	<meta name="twitter:description" content=" Watch now the Best TV shows and Movies " />
-	<meta name="twitter:image" content="https://moviewatchfree.netlify.app/og_image.jpg" />
+	<meta name="twitter:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
   <script src="../../propler/ads.js" defer></script> 
   
   <meta name="google-site-verification" content="WQh7UdOVLh--PluVaU8U1m1IHrAPjaWmaItVOdek8tg" />
-  <link rel="alternate" hreflang="en-us" 	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="en-gb" 	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="en-ca" 	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="en-au" 	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="en-se" 	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="en-fr" 	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="en-dk" 	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="en-no" 	href="https://moviewatchfree.netlify.app/"/>
-	<link rel="alternate" hreflang="x-default" 	href="https://moviewatchfree.netlify.app/"/>
+  <link rel="alternate" hreflang="en-us" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="en-gb" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="en-ca" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="en-au" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="en-se" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="en-fr" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="en-dk" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="en-no" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="x-default" 	href="https://watchfreemovie.netlify.app/"/>
       </Head>
 <div class="container my-24 px-6 mx-auto">
 
