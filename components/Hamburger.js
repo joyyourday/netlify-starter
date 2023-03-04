@@ -45,7 +45,7 @@ export default function Home() {
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
   <link rel="manifest" href="/site.webmanifest"></link>
-  <link rel="canonical" href="https://watchfreemovie.netlify.app/" />
+
       </Head>
       <nav className="w-full bg-gray-800 shadow">
         <div className="justify-between px-4  mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
