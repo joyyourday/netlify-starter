@@ -1,4 +1,4 @@
-import Head from 'next/head';
+
 import Link from 'next/link';
 import { useState } from 'react';
 import Image from 'next/image';
@@ -8,46 +8,7 @@ export default function Home() {
   const [navbar, setNavbar] = useState(false);
   return (
     <div>
-      <Head>
-      <title>Watch Free Movie™ | Watch now the Best TV shows and Movies</title>
-        <meta name="robots" content="index, follow" />  
-        <meta name="revisit-after" content="1 days" />
-	      <meta name="description" content="Watch Free Movie™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies" />
-	     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-       <meta name="keywords" content="Watch Free Movie,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
-	     <meta property="og:locale" content="en_US" />
-	     <meta property="og:site_name" content="Watch Free Movie™ | Watch now the Best TV shows and Movies " />
-	     <meta property="og:type" content="website" />
-	     <meta property="og:image:height" content="1280"/>
-	     <meta property="og:image:width" content="720"/>
-	     <meta property="og:title" content="Watch Free Movie™ | Watch now the Best TV shows and Movies " />
-	     <meta property="og:description" content="Watch Free Movie™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies " />
-	     <meta property="og:url" content="https://watchfreemovie.netlify.app/" />
-	     <meta property="og:image:type" content="image/jpeg" />
-	     <meta property="og:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
-	     <meta property="og:image:secure_url" content="https://watchfreemovie.netlify.app/og_image.jpg" />
-	     <meta name="twitter:card" content="summary_large_image" />
-	     <meta name="twitter:title" content="Watch Free Movie™ " />
-	     <meta name="twitter:description" content=" Watch Free Movie™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies " />
-	     <meta name="twitter:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
-       <meta name="google-site-verification" content="WQh7UdOVLh--PluVaU8U1m1IHrAPjaWmaItVOdek8tg" />
-  <link rel="alternate" hreflang="en-us" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="en-gb" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="en-ca" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="en-au" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="en-se" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="en-fr" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="en-dk" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="en-no" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="x-default" 	href="https://watchfreemovie.netlify.app/"/>
-  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-  <link rel="manifest" href="/site.webmanifest"></link>
-
-      </Head>
-      <nav className="w-full bg-gray-800 shadow">
+           <nav className="w-full bg-gray-800 shadow">
         <div className="justify-between px-4  mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
           <div>
             <div className="flex items-center justify-between py-3 md:py-5 md:block">
