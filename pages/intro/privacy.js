@@ -6,12 +6,12 @@ const Privacy = () => {
   return (
     <div>
        <Head>
-        <title>Watch Free Movie™ Privacy Policy</title>
+        <title>Watch Free Movies™ Privacy Policy</title>
       
 	<meta name="description" content="Watch
  now the Best TV shows and Movies " />
 	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-	 <meta name="keywords" content="watchfreemovie,watch freemovies,watchfree movies online,u watch freemovies,watchfreemovie online.streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
+	<meta name="keywords" content="Watch Free Movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
 	<meta name="revisit-after" content="1 days" />
 	<meta property="og:locale" content="en_US" />   
 <meta name="robots" content="index, follow" />  
@@ -19,18 +19,18 @@ const Privacy = () => {
   <meta name="robots" content="index, follow" />
 	
 	<link rel="icon" type="image/x-icon" href="favicon.ico" />
-	<meta property="og:site_name" content="Watch Free Movie™ | Watch now the Best TV shows and Movies " />
+	<meta property="og:site_name" content="Watch Free Movies™ | Watch now the Best TV shows and Movies " />
 	<meta property="og:type" content="website" />
 	<meta property="og:image:height" content="1280"/>
 	<meta property="og:image:width" content="720"/>
-	<meta property="og:title" content="Watch Free Movie™ | Watch now the Best TV shows and Movies " />
+	<meta property="og:title" content="Watch Free Movies™ | Watch now the Best TV shows and Movies " />
 	<meta property="og:description" content="Watch now the Best TV shows and Movies " />
 	<meta property="og:url" content="https://watchfreemovie.netlify.app/" />
 	<meta property="og:image:type" content="image/jpeg" />
 	<meta property="og:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
 	<meta property="og:image:secure_url" content="https://watchfreemovie.netlify.app/og_image.jpg" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="Watch Free Movie™ " />
+	<meta name="twitter:title" content="Watch Free Movies™ " />
 	<meta name="twitter:description" content=" Watch now the Best TV shows and Movies " />
 	<meta name="twitter:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
 	<script src="../../propler/ads.js" defer></script> 
@@ -52,24 +52,24 @@ const Privacy = () => {
   <div class="flex flex-wrap">
     <div class="grow-0 shrink-0 basis-auto mb-12 md:mb-0 w-full  px-3 lg:px-6">
       <h1 class="text-3xl font-bold mb-6">Privacy Policy</h1>
-      <p class="font-bold mb-2">Watch Free Movie</p>
+      <p class="font-bold mb-2">Watch Free Movies</p>
       <p class="text-gray-500 mb-6">
-      Please read the following terms and conditions carefully and pay attention to the fact that by entering this site you completely agree to its terms and conditions. Watch Free Movie site reserves the right to change these terms and conditions without any prior notice. To get the changes check this policy on a regular base. This Site (Watch Free Movie) shall have no responsibilities or liabilities for the content, data, opinions, statements and links this site contains.
+      Please read the following terms and conditions carefully and pay attention to the fact that by entering this site you completely agree to its terms and conditions. Watch Free Movies site reserves the right to change these terms and conditions without any prior notice. To get the changes check this policy on a regular base. This Site (Watch Free Movies) shall have no responsibilities or liabilities for the content, data, opinions, statements and links this site contains.
       </p>
       <p class="font-bold mb-2">Note: Important</p>
       <p class="text-gray-500 mb-6">
       YOU HEREBY FURTHER AFFIRM AND WARRANT THAT YOU ARE CURRENTLY OVER THE AGE OF EIGHTEEN (<strong>18</strong>) YEARS (TWENTYONE (<strong>21</strong>) IN PLACES WHERE EIGHTEEN (<strong>18</strong>) YEARS IS NOT THE AGE OF MAJORITY) AND ARE CAPABLE OF LAWFULLY ENTERING INTO AND EXECUTING THE TERMS OF THIS AGREEMENT.
       </p>
       <p class="font-bold mb-2">
-      Watch Free Movie uses the right of &#8220;Free Speech&#8221;.
+      Watch Free Movies uses the right of &#8220;Free Speech&#8221;.
       </p>
       <p class="text-gray-500 mb-6">
-      This site (Watch Free Movie) works in accordance with copyright law. Persons who reproduce or distribute any works without a copyright owner&#8217;s consent, may be in violation of this law.
+      This site (Watch Free Movies) works in accordance with copyright law. Persons who reproduce or distribute any works without a copyright owner&#8217;s consent, may be in violation of this law.
       </p>
 
      
       <p class="text-gray-500">
-      We do not make warranties that this site will operate error free. If you see an error, please contact the <a class="font-bold text-blue-500 mb-6" href="mailto:drtrailer@gmail.com ">webmaster</a>. By entering this site you agree to hold the owners, employees, advertisers of Watch Free Movie free from any and all liability.This site (Watch Free Movie) do not offer any membership.If you have any questions please feel free to <a class="font-bold text-blue-500 mb-6" href="mailto:drtrailer@gmail.com">contact us</a>.
+      We do not make warranties that this site will operate error free. If you see an error, please contact the <a class="font-bold text-blue-500 mb-6" href="mailto:drtrailer@gmail.com ">webmaster</a>. By entering this site you agree to hold the owners, employees, advertisers of Watch Free Movies free from any and all liability.This site (Watch Free Movies) do not offer any membership.If you have any questions please feel free to <a class="font-bold text-blue-500 mb-6" href="mailto:drtrailer@gmail.com">contact us</a>.
       </p>
     </div>
 

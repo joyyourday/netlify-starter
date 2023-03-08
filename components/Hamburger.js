@@ -8,13 +8,13 @@ export default function Home() {
   const [navbar, setNavbar] = useState(false);
   return (
     <div>
-
+    
       <nav className="w-full bg-gray-800 shadow">
         <div className="justify-between px-4  mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
           <div>
             <div className="flex items-center justify-between py-3 md:py-5 md:block">
            
-          <Image src='/logo.png' alt='Logo' width={550} height={121} className="rounded-3xl "/>
+          <Image src='/logo.png' alt='Logo' width={650} height={121} className="rounded-3xl "/>
               <a href="/">
                 
               </a>

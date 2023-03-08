@@ -5,12 +5,12 @@ const contact = () => {
   return (
     <div>
         <Head>
-        <title>Watch Free Movie™ Contact Us</title>
+        <title>Watch Free Movies™ Contact Us</title>
       
 	<meta name="description" content="Watch
  now the Best TV shows and Movies " />
 	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-	 <meta name="keywords" content="watchfreemovie,watch freemovies,watchfree movies online,u watch freemovies,watchfreemovie online.streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
+	<meta name="keywords" content="Watch Free Movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
 	<meta name="revisit-after" content="1 days" />
 	<meta property="og:locale" content="en_US" />   
 <meta name="robots" content="index, follow" />  
@@ -18,18 +18,18 @@ const contact = () => {
   <meta name="robots" content="index, follow" />
 	
 	<link rel="icon" type="image/x-icon" href="favicon.ico" />
-	<meta property="og:site_name" content="Watch Free Movie™ | Watch now the Best TV shows and Movies " />
+	<meta property="og:site_name" content="Watch Free Movies™ | Watch now the Best TV shows and Movies " />
 	<meta property="og:type" content="website" />
 	<meta property="og:image:height" content="1280"/>
 	<meta property="og:image:width" content="720"/>
-	<meta property="og:title" content="Watch Free Movie™ | Watch now the Best TV shows and Movies " />
+	<meta property="og:title" content="Watch Free Movies™ | Watch now the Best TV shows and Movies " />
 	<meta property="og:description" content="Watch now the Best TV shows and Movies " />
 	<meta property="og:url" content="https://watchfreemovie.netlify.app/" />
 	<meta property="og:image:type" content="image/jpeg" />
 	<meta property="og:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
 	<meta property="og:image:secure_url" content="https://watchfreemovie.netlify.app/og_image.jpg" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="Watch Free Movie™ " />
+	<meta name="twitter:title" content="Watch Free Movies™ " />
 	<meta name="twitter:description" content=" Watch now the Best TV shows and Movies " />
 	<meta name="twitter:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
   <script src="../../propler/ads.js" defer></script> 

@@ -24,47 +24,47 @@ const schemaData   = {
   "@graph":[
     {
       "@type":"CollectionPage",
-      "@id":"https://watchfreemovie.netlify.app/",
-      "url":"https://watchfreemovie.netlify.app/",
-      "name":"Watch Free Movie™ | Watch Movies and TV-Series Online Free",
+      "@id":"https://Watch Free Movies.vercel.app/",
+      "url":"https://Watch Free Movies.vercel.app/",
+      "name":"Watch Free Movies™ | Watch Movies and TV-Series Online Free",
       "isPartOf":{
-        "@id":"https://watchfreemovie.netlify.app/#website"
+        "@id":"https://Watch Free Movies.vercel.app/#website"
       },
       "about":{
-        "@id":"https://watchfreemovie.netlify.app/#organization"
+        "@id":"https://Watch Free Movies.vercel.app/#organization"
       },
-      "description":"Watch Free Movie™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies",
+      "description":"Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies",
       "breadcrumb":{
-        "@id":"https://watchfreemovie.netlify.app/#breadcrumb"
+        "@id":"https://Watch Free Movies.vercel.app/#breadcrumb"
       },
       "inLanguage":"en-US"
     },
     {
       "@type":"BreadcrumbList",
-      "@id":"https://watchfreemovie.netlify.app/#breadcrumb",
+      "@id":"https://Watch Free Movies.vercel.app/#breadcrumb",
       "itemListElement":[
         {
           "@type":"ListItem",
           "position":1,
-          "name":"Watch Free Movie™ | Watch now the Best TV shows and Movies"
+          "name":"Watch Free Movies™ | Watch now the Best TV shows and Movies"
         }
       ]
     },
     {
       "@type":"WebSite",
-      "@id":"https://watchfreemovie.netlify.app/#website",
-      "url":"https://watchfreemovie.netlify.app/",
-      "name":"Watch Free Movie™ | Watch now the Best TV shows and Movies",
-      "description":"Watch Free Movie™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies",
+      "@id":"https://Watch Free Movies.vercel.app/#website",
+      "url":"https://Watch Free Movies.vercel.app/",
+      "name":"Watch Free Movies™ | Watch now the Best TV shows and Movies",
+      "description":"Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies",
       "publisher":{
-        "@id":"https://watchfreemovie.netlify.app/#organization"
+        "@id":"https://Watch Free Movies.vercel.app/#organization"
       },
       "potentialAction":[
         {
           "@type":"SearchAction",
           "target":{
             "@type":"EntryPoint",
-            "urlTemplate":"https://watchfreemovie.netlify.app/?s={search_term_string}"
+            "urlTemplate":"https://Watch Free Movies.vercel.app/?s={search_term_string}"
           },
           "query-input":"required name=search_term_string"
         }
@@ -73,21 +73,21 @@ const schemaData   = {
     },
     {
       "@type":"Organization",
-      "@id":"https://watchfreemovie.netlify.app/#organization",
-      "name":"Watch Free Movie™ | Watch now the Best TV shows and Movies",
-      "url":"https://watchfreemovie.netlify.app/",
+      "@id":"https://Watch Free Movies.vercel.app/#organization",
+      "name":"Watch Free Movies™ | Watch now the Best TV shows and Movies",
+      "url":"https://Watch Free Movies.vercel.app/",
       "logo":{
         "@type":"ImageObject",
         "inLanguage":"en-US",
-        "@id":"https://watchfreemovie.netlify.app/#/schema/logo/image/",
-        "url":"https://watchfreemovie.netlify.app/logo.png",
-        "contentUrl":"https://watchfreemovie.netlify.app/logo.png",
+        "@id":"https://Watch Free Movies.vercel.app/#/schema/logo/image/",
+        "url":"https://Watch Free Movies.vercel.app/logo.png",
+        "contentUrl":"https://Watch Free Movies.vercel.app/logo.png",
         "width":834,
         "height":135,
-        "caption":"Watch Free Movie™ | Watch now the Best TV shows and Movies"
+        "caption":"Watch Free Movies™ | Watch now the Best TV shows and Movies"
       },
       "image":{
-        "@id":"https://watchfreemovie.netlify.app/#/schema/logo/image/"
+        "@id":"https://Watch Free Movies.vercel.app/#/schema/logo/image/"
       }
     }
   ]
@@ -103,53 +103,53 @@ const schemaData   = {
 <div className="bg-[#1a202c]">
 
 <Head>
-        <title>Watch Free Movie™ Page3</title>
+        <title>Watch Free Movies™ Page3</title>
       
         <meta name="robots" content="index, follow" />  
         <meta name="revisit-after" content="1 days" />
-	      <meta name="description" content="Watch Free Movie™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies" />
+	      <meta name="description" content="Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies" />
 	     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-        <meta name="keywords" content="watchfreemovie,watch freemovies,watchfree movies online,u watch freemovies,watchfreemovie online.streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
+       <meta name="keywords" content="Watch Free Movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
 	     <meta property="og:locale" content="en_US" />   
 <meta name="robots" content="index, follow" />  
 <meta name="revisit-after" content="1 days" />
-	     <meta property="og:site_name" content="Watch Free Movie™ | Watch now the Best TV shows and Movies " />
+	     <meta property="og:site_name" content="Watch Free Movies™ | Watch now the Best TV shows and Movies " />
 	     <meta property="og:type" content="website" />
 	     <meta property="og:image:height" content="1280"/>
 	     <meta property="og:image:width" content="720"/>
-	     <meta property="og:title" content="Watch Free Movie™ | Watch now the Best TV shows and Movies " />
-	     <meta property="og:description" content="Watch Free Movie™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies " />
-	     <meta property="og:url" content="https://watchfreemovie.netlify.app/" />
+	     <meta property="og:title" content="Watch Free Movies™ | Watch now the Best TV shows and Movies " />
+	     <meta property="og:description" content="Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies " />
+	     <meta property="og:url" content="https://Watch Free Movies.vercel.app/" />
 	     <meta property="og:image:type" content="image/jpeg" />
-	     <meta property="og:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
-	     <meta property="og:image:secure_url" content="https://watchfreemovie.netlify.app/og_image.jpg" />
+	     <meta property="og:image" content="https://Watch Free Movies.vercel.app/og_image.jpg" />
+	     <meta property="og:image:secure_url" content="https://Watch Free Movies.vercel.app/og_image.jpg" />
 	     <meta name="twitter:card" content="summary_large_image" />
-	     <meta name="twitter:title" content="Watch Free Movie™ " />
-	     <meta name="twitter:description" content=" Watch Free Movie™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies " />
-	     <meta name="twitter:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
+	     <meta name="twitter:title" content="Watch Free Movies™ " />
+	     <meta name="twitter:description" content=" Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies " />
+	     <meta name="twitter:image" content="https://Watch Free Movies.vercel.app/og_image.jpg" />
        <meta name="google-site-verification" content="WQh7UdOVLh--PluVaU8U1m1IHrAPjaWmaItVOdek8tg" />
-  <link rel="alternate" hreflang="en-us" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="en-gb" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="en-ca" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="en-au" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="en-se" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="en-fr" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="en-dk" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="en-no" 	href="https://watchfreemovie.netlify.app/"/>
-	<link rel="alternate" hreflang="x-default" 	href="https://watchfreemovie.netlify.app/"/>
+  <link rel="alternate" hreflang="en-us" 	href="https://Watch Free Movies.vercel.app/"/>
+	<link rel="alternate" hreflang="en-gb" 	href="https://Watch Free Movies.vercel.app/"/>
+	<link rel="alternate" hreflang="en-ca" 	href="https://Watch Free Movies.vercel.app/"/>
+	<link rel="alternate" hreflang="en-au" 	href="https://Watch Free Movies.vercel.app/"/>
+	<link rel="alternate" hreflang="en-se" 	href="https://Watch Free Movies.vercel.app/"/>
+	<link rel="alternate" hreflang="en-fr" 	href="https://Watch Free Movies.vercel.app/"/>
+	<link rel="alternate" hreflang="en-dk" 	href="https://Watch Free Movies.vercel.app/"/>
+	<link rel="alternate" hreflang="en-no" 	href="https://Watch Free Movies.vercel.app/"/>
+	<link rel="alternate" hreflang="x-default" 	href="https://Watch Free Movies.vercel.app/"/>
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
   <link rel="manifest" href="/site.webmanifest"></link>
-  <link rel="canonical" href="https://watchfreemovie.netlify.app/Page2" />
+  <link rel="canonical" href="https://Watch Free Movies.vercel.app/Page2" />
       </Head>
 <main>
         <div>
         
       <div className="flex flex-col items-center justify-center space-y-12">
     <section className="text-gray-600 body-font">
-    <h1 className="mb-4 font-bold leading-none tracking-tight text-white my-2 text-center md:text-4xl dark:text-white"> Watch Free Movie™ Watch Latest Movies</h1>
+    <h1 className="mb-4 font-bold leading-none tracking-tight text-white my-2 text-center md:text-4xl dark:text-white"> Watch Free Movies™ Watch Latest Movies</h1>
       <div className="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4 md:space-y-0 space-y-6">
       <div className="p-4 md:w-1/3 flex flex-col text-center items-center">
         <div className="w-70 h-50 inline-flex items-center justify-center  text-indigo-500 mb-5 flex-shrink-0">
@@ -172,7 +172,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ADULT, HOT +18</strong>
        </div>
        <a href="../../Adult/Imli-2023/Imli">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -197,7 +197,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ADULT, HOT +18</strong>
        </div>
        <a href="../../Adult/TeekhiChutteny-2022/TeekhiChutteny">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -222,7 +222,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ADULT, HOT +18</strong>
        </div>
        <a href="../../Adult/Darji-2022/Darji">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -247,7 +247,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>CRIME, DRAMA</strong>
        </div>
        <a href="../../Hollywood/Hunters-2023/Hunters">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -272,7 +272,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>COMEDY, DRAMA</strong>
        </div>
        <a href="../../Hollywood/GinnyAndGeorgia-2023/GinnyAndGeorgia">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -297,7 +297,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ACTION, DRAMA</strong>
        </div>
        <a href="../../Hollywood/LastOfUs-2023/LastOfUs">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -321,7 +321,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>COMEDY, DARAMA</strong>
        </div>
        <a href="../../Bollywood/Vaalvi-2023/Vaalvi">
-      <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+      <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
        
       </div>
     </div>
@@ -346,7 +346,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>CRIME, DRAMA</strong>
        </div>
           
-       <a href="../../Bollywood/DharaviBank-2022/DharaviBank"> <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+       <a href="../../Bollywood/DharaviBank-2022/DharaviBank"> <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
            
           </div>
         </div>
@@ -370,7 +370,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ACTION, THRILLER</strong>
        </div>
           
-       <a href="../../Hollywood/Imani-2023/Imani"> <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+       <a href="../../Hollywood/Imani-2023/Imani"> <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
            
           </div>
         </div>
@@ -396,7 +396,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>SOCIAL, DARMA</strong>
        </div>
        <a href="../../Bollywood/Kantara-2022/Kantara">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -421,7 +421,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ACTION, THRILLER</strong>
        </div>
        <a href="../../Bollywood/Freddy-2022/Freddy">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -447,7 +447,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>DRAMA, MYSTERY</strong>
        </div>
        <a href="../../Hollywood/Againsttheice/againsttheice" >
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -472,7 +472,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ACTION, MYSTERY</strong>
        </div>
        <a href="../../Bollywood/Dhokha-2022/Dhokha">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -497,7 +497,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>HORROR, DRAMA</strong>
        </div>
        <a href="../../Hollywood/PlayDead-2023/PlayDead">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -522,7 +522,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ACTION, THRILLER</strong>
        </div>
        <a href="../../Hollywood/TheLastHeist-2022/TheLastHeist">
-      <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+      <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
 
          
         </div>
@@ -548,7 +548,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ADULT, HOT +18</strong>
        </div>
        <a href="../../Adult/AnAffairToForget-2022/AnAffairToForget">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -573,7 +573,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ADULT, HOT +18</strong>
        </div>
        <a href="../../Adult/ChingariChaubey-2023/ChingariChaubey">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -598,7 +598,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ADULT, HOT +18</strong>
        </div>
        <a href="../../Adult/VirginBahus-2023/VirginBahus">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
 
          
         </div>
@@ -624,7 +624,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ADULT, HOT +18</strong>
        </div>
        <a href="../../Adult/WalkManP1-2022/WalkManP1">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -649,7 +649,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ADULT, HOT +18</strong>
        </div>
        <a href="../../Adult/WalkManP2-2022/WalkManP2">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -674,7 +674,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ADULT, HOT +18 </strong>
        </div>
        <a href="../../Adult/WalkManP3-2022/WalkManP3">
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>
@@ -699,7 +699,7 @@ const schemaData   = {
        <strong>GENRE :</strong> <strong>ACTION, CRIME</strong>
        </div>
        <a href="../../Bollywood/Kuttey-2023/Kuttey"> 
-        <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >Watch Now</button></a>
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">Watch Now</button></a>
          
         </div>
       </div>

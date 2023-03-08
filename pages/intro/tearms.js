@@ -5,12 +5,12 @@ const Tearms = () => {
   return (
     <div>
         <Head>
-        <title>Watch Free Movie™ Terms of Service</title>
+        <title>Watch Free Movies™ Terms of Service</title>
       
 	<meta name="description" content="Watch
  now the Best TV shows and Movies " />
 	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-	 <meta name="keywords" content="watchfreemovie,watch freemovies,watchfree movies online,u watch freemovies,watchfreemovie online.streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
+	<meta name="keywords" content="Watch Free Movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
 	<meta name="revisit-after" content="1 days" />
 	<meta property="og:locale" content="en_US" />   
 <meta name="robots" content="index, follow" />  
@@ -18,18 +18,18 @@ const Tearms = () => {
   <meta name="robots" content="index, follow" />
 	
 	<link rel="icon" type="image/x-icon" href="favicon.ico" />
-	<meta property="og:site_name" content="Watch Free Movie™ | Watch now the Best TV shows and Movies " />
+	<meta property="og:site_name" content="Watch Free Movies™ | Watch now the Best TV shows and Movies " />
 	<meta property="og:type" content="website" />
 	<meta property="og:image:height" content="1280"/>
 	<meta property="og:image:width" content="720"/>
-	<meta property="og:title" content="Watch Free Movie™ | Watch now the Best TV shows and Movies " />
+	<meta property="og:title" content="Watch Free Movies™ | Watch now the Best TV shows and Movies " />
 	<meta property="og:description" content="Watch now the Best TV shows and Movies " />
 	<meta property="og:url" content="https://watchfreemovie.netlify.app/" />
 	<meta property="og:image:type" content="image/jpeg" />
 	<meta property="og:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
 	<meta property="og:image:secure_url" content="https://watchfreemovie.netlify.app/og_image.jpg" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<meta name="twitter:title" content="Watch Free Movie™ " />
+	<meta name="twitter:title" content="Watch Free Movies™ " />
 	<meta name="twitter:description" content=" Watch now the Best TV shows and Movies " />
 	<meta name="twitter:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
   <script src="../../propler/ads.js" defer></script> 
@@ -51,25 +51,25 @@ const Tearms = () => {
   <div class="flex flex-wrap">
     <div class="grow-0 shrink-0 basis-auto mb-12 md:mb-0 w-full  px-3 lg:px-6">
       <h1 class="text-3xl font-bold mb-6">Terms of Service</h1>
-      <p class="font-bold mb-2">Using Watch Free Movie</p>
+      <p class="font-bold mb-2">Using Watch Free Movies</p>
       <p class="text-gray-500 mb-6">
-      When you enter Watch Free Movie you automatically agree to all our rules and regulations!
+      When you enter Watch Free Movies you automatically agree to all our rules and regulations!
       </p>
       <p class="font-bold mb-2">Hosting and Legal Issues</p>
       <p class="text-gray-500 mb-6">
-      Watch Free Movie is not hosting or uploading any copyrighted content or media of any kind, we only store links to third-party websites that carry their own legal responsibility for their content. If you want to remove content from these websites, please contact these media hosts directly.
-      Watch Free Movie is working according to DMCA, so if you need to remove any content from the website, you can contact us @ <a class="font-bold text-blue-500 mb-6" href="mailto:drtrailer@gmail.com">drtrailer2022@gmail.com</a>.
+      Watch Free Movies is not hosting or uploading any copyrighted content or media of any kind, we only store links to third-party websites that carry their own legal responsibility for their content. If you want to remove content from these websites, please contact these media hosts directly.
+      Watch Free Movies is working according to DMCA, so if you need to remove any content from the website, you can contact us @ <a class="font-bold text-blue-500 mb-6" href="mailto:drtrailer@gmail.com">drtrailer2022@gmail.com</a>.
       </p>
       <p class="font-bold mb-2">
       Responsibilities.
       </p>
       <p class="text-gray-500 mb-6">
-      Watch Free Movie is not responsible for anything that might happen on third-party websites. We are not responsible for the accuracy, compliance, copyright, legality, decency, or any other aspect of the content of other linked sites. Please, be careful when you install, download or submit any personal or CC information!
+      Watch Free Movies is not responsible for anything that might happen on third-party websites. We are not responsible for the accuracy, compliance, copyright, legality, decency, or any other aspect of the content of other linked sites. Please, be careful when you install, download or submit any personal or CC information!
       </p>
 
      
       <p class="text-gray-500">
-      Watch Free Movie holds no responsibility for any legal or copyright issues that may occur due to the use of Watch Free Moviemovie. Please check local copyright laws or the rules of your provider to avoid legal problems.
+      Watch Free Movies holds no responsibility for any legal or copyright issues that may occur due to the use of Watch Free Moviesmovie. Please check local copyright laws or the rules of your provider to avoid legal problems.
       </p>
     </div>
 
