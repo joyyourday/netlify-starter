@@ -28,7 +28,7 @@ const schemaData   = {
     "@id": "https://watchfreemovie.netlify.app/Bollywood/Amigos-2023/Amigos"
     
   },
-  "headline": "Amigos (2023) | Watch Free Movies™",
+  "headline": "Amigos (2023) Full Movie Online Free | Watch Free Movie™",
   "image": "https://watchfreemovie.netlify.app/amigos-2023.webp",
 
   "datePublished": '2023-01-01T09:00:00.000Z',
@@ -36,18 +36,18 @@ const schemaData   = {
   "author": [{
       "@type": "Person",
       "name": "DrTrailer",
-      "url": "https://watchfreemovie.netlify.app/DrTrailer.png"
+      "url": "https://watchfreemovie.netlify.app/DrTrailer.webp"
     }],
   
   "publisher": {
       "@type": "Organization",
-      "name": "Watch Free Movies",
+      "name": "Watch Free Movie",
       "logo": {
         "@type": "ImageObject",
         "url": "https://watchfreemovie.netlify.app/og_image.jpg"
       }
     },
-  "description": "Watch Free Movies™ Amigos (2023) | Watch now the Best TV shows and Movies"
+  "description": "Watch Free Movie™ Amigos (2023) Full Movie Online Free | Watch Movies and TV-Series Online Free"
 
 };
 
@@ -61,18 +61,6 @@ const [showPopup, setShowPopup] = useState(false);
 function togglePopup() {
   setShowPopup(!showPopup);
 }
-const images = [
-  { src: '/black-panther-wakanda-forever-2022.webp', alt: 'Black Panther Waka 2023', href: '../../Hollywood/BlackPantherWaka-2023/BlackPantherWaka'  },
-  { src: '/dishkiyaoon-2023.webp', alt: 'Dishkiyaoon 2023', href: '../../Bollywood/Dishkiyaoon-2023/Dishkiyaoon' },
-  { src: '/ant-Man-and-the-wasp-2023.webp', alt: 'Ant Man And The WASP 2023', href: '../../Bollywood/AntMan-2023/AntMan' },
-  { src: '/farzi-2023.webp', alt: 'Farzi 2023', href: '../../Bollywood/Farzi-2023/Farzi' },
-  { src: '/gandii-baat-s7-2023.webp', alt: 'Gandii Baat S7 2023', href: '../../Adult/GandiiBaatS7-2023/GandiiBaatS7' },
-  { src: '/selfiee-2023.webp', alt: 'Selfiee 2023', href: '../../Bollywood/Selfiee-2023/Selfiee' },
-  { src: '/luther-the-fallen-sun-2023.webp', alt: 'Luther The Fallen Sun 2023', href: '../../Bollywood/LutherTheFallenSun-2023/LutherTheFallenSun' },
-  { src: '/lagaslas-2023.webp', alt: 'Lagaslas 2023', href: '../../Adult/Lagaslas-2023/Lagaslas' },
-  { src: '/vikings-valhalla-2023.webp', alt: 'Vikings Valhalla 2023', href: '../../Hollywood/VikingsValhalla-2023/VikingsValhallaP1' },
-  { src: '/hunt-2023.webp', alt: 'Hunt 2023', href: '../../Bollywood/Hunt-2023/Hunt' },
-];
 
 return (
     <div>
@@ -81,25 +69,25 @@ return (
     dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
   />
      <Head>
-     <title>Watch Amigos (2023) | Watch Free Movies™</title>
+     <title>Watch Amigos (2023) Full Movie Online Free | Watch Free Movie™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Watch Free Movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
+<meta name="keywords" content="free movies,watch movies,watch free movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,hd movies,latest full movies online" />
 <meta property="og:locale" content="en_US" />   
 <meta name="robots" content="index, follow" />  
 <meta name="revisit-after" content="1 days" />
-<meta property="og:site_name" content="Watch Free Movies™ | Watch Movies and TV-Series Online Free" />
+<meta property="og:site_name" content="Watch Free Movie™ | Watch Movies and TV-Series Online Free" />
 <meta property="og:type" content="movie" />
 
-<meta property="og:title" content="Watch Amigos (2023) | Watch Free Movies™" />
+<meta property="og:title" content="Watch Amigos (2023) Full Movie Online Free | Watch Free Movie™" />
 <meta property="og:url" content="https://watchfreemovie.netlify.app/Bollywood/Amigos-2023/Amigos" />
 <meta property="og:image" content="https://watchfreemovie.netlify.app/amigos-2023.webp" />
 <meta property="og:image:secure_url" content="https://watchfreemovie.netlify.app/" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Watch Amigos (2023) | Watch Free Movies™" />
+<meta name="twitter:title" content="Watch Amigos (2023) Full Movie Online Free | Watch Free Movie™" />
 <meta name="twitter:image" content="https://watchfreemovie.netlify.app/amigos-2023.webp" />
-<meta name="description" content="Watch Amigos Full Movie Online on Watch Free Movies™, You can also download Amigos (2023) in full HD quality to watch later offline." />
+<meta name="description" content="Watch Amigos Full Movie Online on Watch Free Movie™, You can also download Amigos (2023) Full Movie Online Free in full HD quality to watch later offline." />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <link rel="canonical" href="https://watchfreemovie.netlify.app/Bollywood/Amigos-2023/" />
 <script src="../../propler/ads.js" defer></script>
@@ -107,7 +95,7 @@ return (
       </Head>
       <div className="bg-[#1a202c]">
       <SkipAds />
-    <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch Amigos (2023) </h1>
+    <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch Amigos (2023)  </h1>
 
      
   
@@ -117,7 +105,7 @@ return (
     <h3 className="mb-9 text-bg  text-black-500 text-red-600 text-center xl:px-4 ">*Note: Pls Select the in the Player to Change your Language of your Choice and Setting  to Change the Quality of Video.</h3>
   <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
     <a href="../Amigos-2023/Server2" > 
-      <h1 >Click To Watch Amigos (2023) Server 2</h1></a></button>
+      <h2 >Click To Watch Amigos (2023) Server 2</h2></a></button>
     <div className="flex flex-col space-y-4 m-8">
     <Rating /></div>
     <div className="flex flex-col space-y-4 ...">
@@ -131,8 +119,8 @@ return (
 </div>
 <div>
       <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-yellow-600 to-blue-500 group-hover:from-purple-600 group-hover:to-yellow-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0  " >
-    <a href="https://www.imdb.com/title/tt23490586/" > 
-      <h1 >IDBM Ranking</h1></a></button></div>
+    <a href="https://www.imdb.com/title/tt23490586/" target="_blank" > 
+      <h2 >IDBM Ranking</h2></a></button></div>
 <h2 className=" text-medium font-sm text-center dark:text-white text-white"><strong>Genre:</strong>Action, Thriller, Crime.</h2>
 <h2 className="text-medium font-sm text-center dark:text-white text-white"><strong>Release year:</strong> 2023</h2>
 <h2 className="text-medium font-sm text-center dark:text-white text-white"><strong>Director:</strong>Rajendra Reddy</h2>
@@ -201,14 +189,14 @@ return (
 
 <div className="flex flex-col py-10  text-blue-600 text-center items-center justify-center">
 
-<h3  className="text-xl font-bold leading-normal mt-0 mb-2 text-blue-600 ">Amigos (2023) </h3>
+<h3  className="text-xl font-bold leading-normal mt-0 mb-2 text-blue-600 ">Amigos (2023)  </h3>
 <Link href="../../Bollywood/Amigos-2023/DownloadAMG1">
 <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0  ">
 Download 
 
 </button></Link>
 
-<h3 className="text-xl font-bold leading-normal mt-0 mb-2 text-blue-600 ">Amigos (2023)</h3>
+<h3 className="text-xl font-bold leading-normal mt-0 mb-2 text-blue-600 ">Amigos (2023) </h3>
 <Link href="../../Bollywood/Amigos-2023/DownloadAMG2">
 <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
 Download 

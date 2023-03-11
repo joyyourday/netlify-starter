@@ -22,29 +22,29 @@ const schemaData   = {
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://moviewatchfree.netlify.app/Hollywood/YoungKindaichi-2023/YoungKindaichiP2"
+    "@id": "https://watchfreemovie.netlify.app/Hollywood/YoungKindaichi-2023/YoungKindaichiP2"
     
   },
-  "headline": "Vikings Young Kindaichi Part 2 - 2023 | Moviewatch Free™",
-  "image": "https://moviewatchfree.netlify.app/the-files-of-young-kindaichi-2023.webp",
+  "headline": "Vikings Young Kindaichi Part 2 - 2023 | Watch Free Movie™",
+  "image": "https://watchfreemovie.netlify.app/the-files-of-young-kindaichi-2023.webp",
 
   "datePublished": '2023-01-01T09:00:00.000Z',
   "dateModified": '2023-01-01T09:00:00.000Z',
   "author": [{
       "@type": "Person",
-      "name": "Moviewatch Free",
-      "url": "https://moviewatchfree.netlify.app/"
+      "name": "Watch Free Movie",
+      "url": "https://watchfreemovie.netlify.app/"
     }],
   
   "publisher": {
       "@type": "Organization",
-      "name": "Moviewatch Free",
+      "name": "Watch Free Movie",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://moviewatchfree.netlify.app/og_image.jpg"
+        "url": "https://watchfreemovie.netlify.app/og_image.jpg"
       }
     },
-  "description": "Moviewatch Free™ Young Kindaichi Part 2 - 2023 | Watch now the Best TV shows and Movies"
+  "description": "Watch Free Movie™ Young Kindaichi Part 2 - 2023 | Watch now the Best TV shows and Movies"
 
 };
 const scrollSearch = myKey => {
@@ -59,24 +59,24 @@ const scrollSearch = myKey => {
     dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
   />
      <Head>
-     <title>Watch Young Kindaichi Part 2 (2023) | Moviewatch Free™</title>
+     <title>Watch Young Kindaichi Part 2 (2023) | Watch Free Movie™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Moviewatch Free,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
+<meta name="keywords" content="mxplayer,mxplayer.in,mxplayer,mxplayer.in,hd movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
 <meta property="og:locale" content="en_US" />
-<meta property="og:site_name" content="Moviewatch Free™ | Watch Movies and TV-Series Online Free" />
+<meta property="og:site_name" content="Watch Free Movie™ | Watch Movies and TV-Series Online Free" />
 <meta property="og:type" content="movie" />
-<meta property="og:title" content="Watch Young Kindaichi Part 2 (2023) | Moviewatch Free™" />
-<meta property="og:url" content="https://moviewatchfree.netlify.app/Hollywood/YoungKindaichi-2023/YoungKindaichiP2" />
-<meta property="og:image" content="https://moviewatchfree.netlify.app/the-files-of-young-kindaichi-2023.webp" />
-<meta property="og:image:secure_url" content="https://moviewatchfree.netlify.app/" />
+<meta property="og:title" content="Watch Young Kindaichi Part 2 (2023) | Watch Free Movie™" />
+<meta property="og:url" content="https://watchfreemovie.netlify.app/Hollywood/YoungKindaichi-2023/YoungKindaichiP2" />
+<meta property="og:image" content="https://watchfreemovie.netlify.app/the-files-of-young-kindaichi-2023.webp" />
+<meta property="og:image:secure_url" content="https://watchfreemovie.netlify.app/" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Watch Young Kindaichi Part 2 (2023) | Moviewatch Free™" />
-<meta name="twitter:image" content="https://moviewatchfree.netlify.app/the-files-of-young-kindaichi-2023.webp" />
-<meta name="description" content="Watch Young Kindaichi Part 2 Full Movie Online on Moviewatch Free™, You can also download Young Kindaichi Part 2 (2023) in full HD quality to watch later offline." />
+<meta name="twitter:title" content="Watch Young Kindaichi Part 2 (2023) | Watch Free Movie™" />
+<meta name="twitter:image" content="https://watchfreemovie.netlify.app/the-files-of-young-kindaichi-2023.webp" />
+<meta name="description" content="Watch Young Kindaichi Part 2 Full Movie Online on Watch Free Movie™, You can also download Young Kindaichi Part 2 (2023) in full HD quality to watch later offline." />
 <script async="async" data-cfasync="false" src="//ophoacit.com/1?z=5720177"></script>
-<link rel="canonical" href="https://moviewatchfree.netlify.app/Hollywood/YoungKindaichi-2023/YoungKindaichiP1" />
+<link rel="canonical" href="https://watchfreemovie.netlify.app/Hollywood/YoungKindaichi-2023/YoungKindaichiP1" />
  
 
       </Head>

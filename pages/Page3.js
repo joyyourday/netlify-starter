@@ -24,47 +24,47 @@ const schemaData   = {
   "@graph":[
     {
       "@type":"CollectionPage",
-      "@id":"https://Watch Free Movies.vercel.app/",
-      "url":"https://Watch Free Movies.vercel.app/",
-      "name":"Watch Free Movies™ | Watch Movies and TV-Series Online Free",
+      "@id":"https://watchfreemovie.netlify.app/",
+      "url":"https://watchfreemovie.netlify.app/",
+      "name":"Watch Free Movie™ | Watch Movies and TV-Series Online Free",
       "isPartOf":{
-        "@id":"https://Watch Free Movies.vercel.app/#website"
+        "@id":"https://watchfreemovie.netlify.app/#website"
       },
       "about":{
-        "@id":"https://Watch Free Movies.vercel.app/#organization"
+        "@id":"https://watchfreemovie.netlify.app/#organization"
       },
-      "description":"Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies",
+      "description":"Watch Free Movie™ - Hollywood | Bollywood | Adult Watch Movies and TV-Series Online Free",
       "breadcrumb":{
-        "@id":"https://Watch Free Movies.vercel.app/#breadcrumb"
+        "@id":"https://watchfreemovie.netlify.app/#breadcrumb"
       },
       "inLanguage":"en-US"
     },
     {
       "@type":"BreadcrumbList",
-      "@id":"https://Watch Free Movies.vercel.app/#breadcrumb",
+      "@id":"https://watchfreemovie.netlify.app/#breadcrumb",
       "itemListElement":[
         {
           "@type":"ListItem",
           "position":1,
-          "name":"Watch Free Movies™ | Watch now the Best TV shows and Movies"
+          "name":"Watch Free Movie™ | Watch Movies and TV-Series Online Free"
         }
       ]
     },
     {
       "@type":"WebSite",
-      "@id":"https://Watch Free Movies.vercel.app/#website",
-      "url":"https://Watch Free Movies.vercel.app/",
-      "name":"Watch Free Movies™ | Watch now the Best TV shows and Movies",
-      "description":"Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies",
+      "@id":"https://watchfreemovie.netlify.app/#website",
+      "url":"https://watchfreemovie.netlify.app/",
+      "name":"Watch Free Movie™ | Watch Movies and TV-Series Online Free",
+      "description":"Watch Free Movie™ - Hollywood | Bollywood | Adult Watch Movies and TV-Series Online Free",
       "publisher":{
-        "@id":"https://Watch Free Movies.vercel.app/#organization"
+        "@id":"https://watchfreemovie.netlify.app/#organization"
       },
       "potentialAction":[
         {
           "@type":"SearchAction",
           "target":{
             "@type":"EntryPoint",
-            "urlTemplate":"https://Watch Free Movies.vercel.app/?s={search_term_string}"
+            "urlTemplate":"https://watchfreemovie.netlify.app/?s={search_term_string}"
           },
           "query-input":"required name=search_term_string"
         }
@@ -73,21 +73,21 @@ const schemaData   = {
     },
     {
       "@type":"Organization",
-      "@id":"https://Watch Free Movies.vercel.app/#organization",
-      "name":"Watch Free Movies™ | Watch now the Best TV shows and Movies",
-      "url":"https://Watch Free Movies.vercel.app/",
+      "@id":"https://watchfreemovie.netlify.app/#organization",
+      "name":"Watch Free Movie™ | Watch Movies and TV-Series Online Free",
+      "url":"https://watchfreemovie.netlify.app/",
       "logo":{
         "@type":"ImageObject",
         "inLanguage":"en-US",
-        "@id":"https://Watch Free Movies.vercel.app/#/schema/logo/image/",
-        "url":"https://Watch Free Movies.vercel.app/logo.png",
-        "contentUrl":"https://Watch Free Movies.vercel.app/logo.png",
+        "@id":"https://watchfreemovie.netlify.app/#/schema/logo/image/",
+        "url":"https://watchfreemovie.netlify.app/logo.png",
+        "contentUrl":"https://watchfreemovie.netlify.app/logo.png",
         "width":834,
         "height":135,
-        "caption":"Watch Free Movies™ | Watch now the Best TV shows and Movies"
+        "caption":"Watch Free Movie™ | Watch Movies and TV-Series Online Free"
       },
       "image":{
-        "@id":"https://Watch Free Movies.vercel.app/#/schema/logo/image/"
+        "@id":"https://watchfreemovie.netlify.app/#/schema/logo/image/"
       }
     }
   ]
@@ -103,53 +103,53 @@ const schemaData   = {
 <div className="bg-[#1a202c]">
 
 <Head>
-        <title>Watch Free Movies™ Page3</title>
+        <title>Watch Free Movie™ Page3</title>
       
         <meta name="robots" content="index, follow" />  
         <meta name="revisit-after" content="1 days" />
-	      <meta name="description" content="Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies" />
+	      <meta name="description" content="Watch Free Movie™ - Hollywood | Bollywood | Adult Watch Movies and TV-Series Online Free" />
 	     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-       <meta name="keywords" content="Watch Free Movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
+       <meta name="keywords" content="free movies,watch movies,watch free movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,hd movies,latest full movies online" />
 	     <meta property="og:locale" content="en_US" />   
 <meta name="robots" content="index, follow" />  
 <meta name="revisit-after" content="1 days" />
-	     <meta property="og:site_name" content="Watch Free Movies™ | Watch now the Best TV shows and Movies " />
+	     <meta property="og:site_name" content="Watch Free Movie™ | Watch Movies and TV-Series Online Free " />
 	     <meta property="og:type" content="website" />
 	     <meta property="og:image:height" content="1280"/>
 	     <meta property="og:image:width" content="720"/>
-	     <meta property="og:title" content="Watch Free Movies™ | Watch now the Best TV shows and Movies " />
-	     <meta property="og:description" content="Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies " />
-	     <meta property="og:url" content="https://Watch Free Movies.vercel.app/" />
+	     <meta property="og:title" content="Watch Free Movie™ | Watch Movies and TV-Series Online Free " />
+	     <meta property="og:description" content="Watch Free Movie™ - Hollywood | Bollywood | Adult Watch Movies and TV-Series Online Free " />
+	     <meta property="og:url" content="https://watchfreemovie.netlify.app/" />
 	     <meta property="og:image:type" content="image/jpeg" />
-	     <meta property="og:image" content="https://Watch Free Movies.vercel.app/og_image.jpg" />
-	     <meta property="og:image:secure_url" content="https://Watch Free Movies.vercel.app/og_image.jpg" />
+	     <meta property="og:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
+	     <meta property="og:image:secure_url" content="https://watchfreemovie.netlify.app/og_image.jpg" />
 	     <meta name="twitter:card" content="summary_large_image" />
-	     <meta name="twitter:title" content="Watch Free Movies™ " />
-	     <meta name="twitter:description" content=" Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies " />
-	     <meta name="twitter:image" content="https://Watch Free Movies.vercel.app/og_image.jpg" />
+	     <meta name="twitter:title" content="Watch Free Movie™ " />
+	     <meta name="twitter:description" content=" Watch Free Movie™ - Hollywood | Bollywood | Adult Watch Movies and TV-Series Online Free " />
+	     <meta name="twitter:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
        <meta name="google-site-verification" content="WQh7UdOVLh--PluVaU8U1m1IHrAPjaWmaItVOdek8tg" />
-  <link rel="alternate" hreflang="en-us" 	href="https://Watch Free Movies.vercel.app/"/>
-	<link rel="alternate" hreflang="en-gb" 	href="https://Watch Free Movies.vercel.app/"/>
-	<link rel="alternate" hreflang="en-ca" 	href="https://Watch Free Movies.vercel.app/"/>
-	<link rel="alternate" hreflang="en-au" 	href="https://Watch Free Movies.vercel.app/"/>
-	<link rel="alternate" hreflang="en-se" 	href="https://Watch Free Movies.vercel.app/"/>
-	<link rel="alternate" hreflang="en-fr" 	href="https://Watch Free Movies.vercel.app/"/>
-	<link rel="alternate" hreflang="en-dk" 	href="https://Watch Free Movies.vercel.app/"/>
-	<link rel="alternate" hreflang="en-no" 	href="https://Watch Free Movies.vercel.app/"/>
-	<link rel="alternate" hreflang="x-default" 	href="https://Watch Free Movies.vercel.app/"/>
+  <link rel="alternate" hreflang="en-us" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="en-gb" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="en-ca" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="en-au" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="en-se" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="en-fr" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="en-dk" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="en-no" 	href="https://watchfreemovie.netlify.app/"/>
+	<link rel="alternate" hreflang="x-default" 	href="https://watchfreemovie.netlify.app/"/>
   <link rel="icon" type="image/x-icon" href="/favicon.ico" />
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
   <link rel="manifest" href="/site.webmanifest"></link>
-  <link rel="canonical" href="https://Watch Free Movies.vercel.app/Page2" />
+  <link rel="canonical" href="https://watchfreemovie.netlify.app/Page2" />
       </Head>
 <main>
         <div>
         
       <div className="flex flex-col items-center justify-center space-y-12">
     <section className="text-gray-600 body-font">
-    <h1 className="mb-4 font-bold leading-none tracking-tight text-white my-2 text-center md:text-4xl dark:text-white"> Watch Free Movies™ Watch Latest Movies</h1>
+    <h1 className="mb-4 font-bold leading-none tracking-tight text-white my-2 text-center md:text-4xl dark:text-white"> Watch Free Movie™ Watch Latest Movies</h1>
       <div className="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4 md:space-y-0 space-y-6">
       <div className="p-4 md:w-1/3 flex flex-col text-center items-center">
         <div className="w-70 h-50 inline-flex items-center justify-center  text-indigo-500 mb-5 flex-shrink-0">

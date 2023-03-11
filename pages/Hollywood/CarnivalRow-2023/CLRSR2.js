@@ -27,7 +27,7 @@ const schemaData   = {
     "@id": "https://watchfreemovie.netlify.app/Hollywood/CarnivalRow-2023/CarnivalRowP2"
     
   },
-  "headline": "Carnival Row Episode 2 (2023) | Watch Free Movies™",
+  "headline": "Carnival Row Episode 2 (2023) Full Movie Online Free | Watch Free Movie™",
   "image": "https://watchfreemovie.netlify.app/carnival-row-2023.webp",
 
   "datePublished": '2023-01-01T09:00:00.000Z',
@@ -35,18 +35,18 @@ const schemaData   = {
   "author": [{
       "@type": "Person",
       "name": "DrTrailer",
-      "url": "https://watchfreemovie.netlify.app/DrTrailer.png"
+      "url": "https://watchfreemovie.netlify.app/DrTrailer.webp"
     }],
   
   "publisher": {
       "@type": "Organization",
-      "name": "Watch Free Movies",
+      "name": "Watch Free Movie",
       "logo": {
         "@type": "ImageObject",
         "url": "https://watchfreemovie.netlify.app/og_image.jpg"
       }
     },
-  "description": "Watch Free Movies™ Carnival Row Episode 2 (2023) | Watch now the Best TV shows and Movies"
+  "description": "Watch Free Movie™ Carnival Row Episode 2 (2023) Full Movie Online Free | Watch Movies and TV-Series Online Free"
 
 };
 const scrollSearch = myKey => {
@@ -65,25 +65,25 @@ function togglePopup() {
     dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
   />
      <Head>
-     <title>Watch Carnival Row Episode 2 (2023) | Watch Free Movies™</title>
+     <title>Watch Carnival Row EP 2 (2023) Full Movie Online Free | Watch Free Movie™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="keywords" content="Watch Free Movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
+<meta name="keywords" content="free movies,watch movies,watch free movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,hd movies,latest full movies online" />
 <meta property="og:locale" content="en_US" />   
 <meta name="robots" content="index, follow" />  
 <meta name="revisit-after" content="1 days" />
-<meta property="og:site_name" content="Watch Free Movies™ | Watch Movies and TV-Series Online Free" />
+<meta property="og:site_name" content="Watch Free Movie™ | Watch Movies and TV-Series Online Free" />
 <meta property="og:type" content="movie" />
  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta property="og:title" content="Watch Carnival Row Episode 2 (2023) | Watch Free Movies™" />
+<meta property="og:title" content="Watch Carnival Row Episode 2 (2023) | Watch Free Movie™" />
 <meta property="og:url" content="https://watchfreemovie.netlify.app/Hollywood/CarnivalRow-2023/CarnivalRowP2" />
 <meta property="og:image" content="https://watchfreemovie.netlify.app/carnival-row-2023.webp" />
 <meta property="og:image:secure_url" content="https://watchfreemovie.netlify.app/" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Watch Carnival Row Episode 2 (2023) | Watch Free Movies™" />
+<meta name="twitter:title" content="Watch Carnival Row Episode 2 (2023) | Watch Free Movie™" />
 <meta name="twitter:image" content="https://watchfreemovie.netlify.app/carnival-row-2023.webp" />
-<meta name="description" content="Watch Carnival Row Full Movie Online on Watch Free Movies™, You can also download Carnival Row Episode 2 (2023) in full HD quality to watch later offline." />
+<meta name="description" content="Watch Carnival Row Full Movie Online on Watch Free Movie™, You can also download Carnival Row Episode 2 (2023) in full HD quality to watch later offline." />
 <script src="../../propler/ads.js" defer></script> 
 <link rel="canonical" href="https://watchfreemovie.netlify.app/Hollywood/CarnivalRow-2023/" />
  
@@ -102,13 +102,13 @@ function togglePopup() {
     <div class="grid grid-cols-1 sm:grid-cols-2 x:grid-cols-3 gap-4">
     
     <div class="flex justify-center">
-    <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP1">
+    <Link href="../../Hollywood/CarnivalRow-2023/CLRSR1">
   <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
       Episode 1
       </button></Link>
     </div>
     <div class="flex justify-center">
-    <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP2">
+    <Link href="../../Hollywood/CarnivalRow-2023/CLRSR2">
   <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
       Episode 2
       </button></Link>
@@ -125,7 +125,7 @@ function togglePopup() {
 <h3 className="mb-9 text-bg  text-black-500 text-red-600 text-center xl:px-4 ">*Note: Pls Select the in the Player to Change your Language of your Choice and Setting  to Change the Quality of Video.</h3>
 <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
     <a href="../CarnivalRow-2023/CarnivalRowP2" > 
-      <h1 >Click To Watch CarnivalRow Episode 2 (2023) Server 1</h1></a></button>
+      <h2 >Click To Watch CarnivalRow Episode 2 (2023) Server 1</h2></a></button>
        <div className="flex flex-col space-y-4 m-8">
     <Rating /></div>
     <div className="flex flex-col space-y-4 ...">
@@ -139,8 +139,8 @@ function togglePopup() {
 </div>
 <div>
       <button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-yellow-600 to-blue-500 group-hover:from-purple-600 group-hover:to-yellow-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0  " >
-    <a href="https://www.imdb.com/title/tt0489974/" > 
-      <h1 >IDBM Ranking</h1></a></button></div>
+    <a href="https://www.imdb.com/title/tt0489974/" target="_blank" > 
+      <h2 >IDBM Ranking</h2></a></button></div>
 <h2 className=" text-medium font-sm text-center dark:text-white text-white"><strong>Genre:</strong> Crime, Drama, Fantasy.</h2>
 <h2 className="text-medium font-sm text-center dark:text-white text-white"><strong>Release year:</strong> 2023</h2>
 <h2 className="text-medium font-sm text-center dark:text-white text-white"><strong>Director:</strong>Travis Beacham, René Echevarria</h2>

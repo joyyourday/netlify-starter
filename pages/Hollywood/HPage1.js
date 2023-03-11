@@ -26,14 +26,14 @@ const schemaData   = {
       "@type":"CollectionPage",
       "@id":"https://watchfreemovie.netlify.app/",
       "url":"https://watchfreemovie.netlify.app/",
-      "name":"Watch Free Movies™ | Watch Movies and TV-Series Online Free",
+      "name":"Watch Free Movie™ | Watch Movies and TV-Series Online Free",
       "isPartOf":{
         "@id":"https://watchfreemovie.netlify.app/#website"
       },
       "about":{
         "@id":"https://watchfreemovie.netlify.app/#organization"
       },
-      "description":"Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies",
+      "description":"Watch Free Movie™ - Hollywood | Bollywood | Adult Watch Movies and TV-Series Online Free",
       "breadcrumb":{
         "@id":"https://watchfreemovie.netlify.app/#breadcrumb"
       },
@@ -46,7 +46,7 @@ const schemaData   = {
         {
           "@type":"ListItem",
           "position":1,
-          "name":"Watch Free Movies™ | Watch now the Best TV shows and Movies"
+          "name":"Watch Free Movie™ | Watch Movies and TV-Series Online Free"
         }
       ]
     },
@@ -54,8 +54,8 @@ const schemaData   = {
       "@type":"WebSite",
       "@id":"https://watchfreemovie.netlify.app/#website",
       "url":"https://watchfreemovie.netlify.app/",
-      "name":"Watch Free Movies™ | Watch now the Best TV shows and Movies",
-      "description":"Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies",
+      "name":"Watch Free Movie™ | Watch Movies and TV-Series Online Free",
+      "description":"Watch Free Movie™ - Hollywood | Bollywood | Adult Watch Movies and TV-Series Online Free",
       "publisher":{
         "@id":"https://watchfreemovie.netlify.app/#organization"
       },
@@ -74,7 +74,7 @@ const schemaData   = {
     {
       "@type":"Organization",
       "@id":"https://watchfreemovie.netlify.app/#organization",
-      "name":"Watch Free Movies™ | Watch now the Best TV shows and Movies",
+      "name":"Watch Free Movie™ | Watch Movies and TV-Series Online Free",
       "url":"https://watchfreemovie.netlify.app/",
       "logo":{
         "@type":"ImageObject",
@@ -84,7 +84,7 @@ const schemaData   = {
         "contentUrl":"https://watchfreemovie.netlify.app/logo.png",
         "width":834,
         "height":135,
-        "caption":"Watch Free Movies™ | Watch now the Best TV shows and Movies"
+        "caption":"Watch Free Movie™ | Watch Movies and TV-Series Online Free"
       },
       "image":{
         "@id":"https://watchfreemovie.netlify.app/#/schema/logo/image/"
@@ -103,29 +103,29 @@ const schemaData   = {
 <div className="bg-[#1a202c]">
 
 <Head>
-        <title>Watch Free Movies™ Page1</title>
+        <title>Watch Free Movie™ Page1</title>
       
         <meta name="robots" content="index, follow" />  
         <meta name="revisit-after" content="1 days" />
-	      <meta name="description" content="Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies" />
+	      <meta name="description" content="Watch Free Movie™ - Hollywood | Bollywood | Adult Watch Movies and TV-Series Online Free" />
 	     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-       <meta name="keywords" content="Watch Free Movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,latest full movies online" />
+       <meta name="keywords" content="free movies,watch movies,watch free movies,streaming,latest movies,online tv,latest free movies,watch latest movies online,hd movies,latest full movies online" />
 	     <meta property="og:locale" content="en_US" />   
 <meta name="robots" content="index, follow" />  
 <meta name="revisit-after" content="1 days" />
-	     <meta property="og:site_name" content="Watch Free Movies™ | Watch now the Best TV shows and Movies " />
+	     <meta property="og:site_name" content="Watch Free Movie™ | Watch Movies and TV-Series Online Free " />
 	     <meta property="og:type" content="website" />
 	     <meta property="og:image:height" content="1280"/>
 	     <meta property="og:image:width" content="720"/>
-	     <meta property="og:title" content="Watch Free Movies™ | Watch now the Best TV shows and Movies " />
-	     <meta property="og:description" content="Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies " />
+	     <meta property="og:title" content="Watch Free Movie™ | Watch Movies and TV-Series Online Free " />
+	     <meta property="og:description" content="Watch Free Movie™ - Hollywood | Bollywood | Adult Watch Movies and TV-Series Online Free " />
 	     <meta property="og:url" content="https://watchfreemovie.netlify.app/" />
 	     <meta property="og:image:type" content="image/jpeg" />
 	     <meta property="og:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
 	     <meta property="og:image:secure_url" content="https://watchfreemovie.netlify.app/og_image.jpg" />
 	     <meta name="twitter:card" content="summary_large_image" />
-	     <meta name="twitter:title" content="Watch Free Movies™ " />
-	     <meta name="twitter:description" content=" Watch Free Movies™ - Hollywood | Bollywood | Adult Watch now the Best TV shows and Movies " />
+	     <meta name="twitter:title" content="Watch Free Movie™ " />
+	     <meta name="twitter:description" content=" Watch Free Movie™ - Hollywood | Bollywood | Adult Watch Movies and TV-Series Online Free " />
 	     <meta name="twitter:image" content="https://watchfreemovie.netlify.app/og_image.jpg" />
        <meta name="google-site-verification" content="WQh7UdOVLh--PluVaU8U1m1IHrAPjaWmaItVOdek8tg" />
   <link rel="alternate" hreflang="en-us" 	href="https://watchfreemovie.netlify.app/"/>
@@ -149,7 +149,7 @@ const schemaData   = {
         
         <div className="flex flex-col items-center justify-center space-y-12">
     <section className="text-gray-600 body-font ">
-    <h1 className="mb-4 font-bold leading-none tracking-tight text-white my-2 text-center md:text-4xl dark:text-white"> Watch Free Movies™ Watch Latest Movies</h1>
+    <h1 className="mb-4 font-bold leading-none tracking-tight text-white my-2 text-center md:text-4xl dark:text-white"> Watch Free Movie™ Watch Latest Movies</h1>
     <div className="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4 md:space-y-0 space-y-6">
     <div className="p-4 md:w-1/3 flex flex-col text-center items-center">
         <div className="w-70 h-50 inline-flex items-center justify-center  text-indigo-500 mb-5 flex-shrink-0">
