@@ -2,6 +2,8 @@ import Head from 'next/head'
 import Image from 'next/image'
 import React, { useEffect } from 'react'
 import '@styles/styles.module.css'
+import Translate from '@components/Translate';
+import ShareThis from '@components/ShareThis';
 
 
 export default function Home() {
@@ -86,8 +88,9 @@ const schemaData   = {
 };
 
   return (
-  
+ 
     <div >
+       
        <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
@@ -97,11 +100,12 @@ const schemaData   = {
         <title>Watch Free Movie™ | Watch Movies and TV-Series Online Free</title>
         <meta name="robots" content="index, follow" />  
         <meta name="revisit-after" content="1 days" />
+       
         <meta name="facebook-domain-verification" content="rzl6telvcn1ktdcxrb4xpk9vfud3q5" />
         <meta property="fb:app_id" content="602176271414602" />
 	      <meta name="description" content="Watch Free Movie™ - Hollywood | Bollywood | Adult Watch Movies and TV-Series Online Free" />
 	     <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-        <meta name="keywords" content="watch free movie, watch movies, movies online, watch TV, TV online, TV shows online, watch TV shows, stream movies, stream tv, instant streaming, watch online, movies, watch movies India, watch TV online, no download, full length movies, watch free movies, free movies to watch online, watch movies online free, free movies streaming, free movies full, free movies download, watch movies hd, movies to watch" />
+       <meta name="keywords" content="watch free movie, watch movies, movies online, watch TV, TV online, TV shows online, watch TV shows, stream movies, stream tv, instant streaming, watch online, movies, watch movies India, watch TV online, no download, full length movies, watch free movies, free movies to watch online, watch movies online free, free movies streaming, free movies full, free movies download, watch movies hd, movies to watch" />
 	     <meta property="og:locale" content="en_US" />   
   
 	     <meta property="og:site_name" content="Watch Free Movie™ | Watch Movies and TV-Series Online Free " />
@@ -140,7 +144,7 @@ const schemaData   = {
       </Head>
     
      
-
+<Translate />
       <main>
         <div>
         <div className="flex flex-col items-center justify-center space-y-12">
@@ -925,7 +929,7 @@ It follows Becca, a forensics expert who, when investigating a murder.</h3>
 </nav>
 </div>
       </main>
-
+      < ShareThis async defer />
       </div>
     </div>
     

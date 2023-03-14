@@ -1,5 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
+import Translate from '@components/Translate'
 
 const Tearms = () => {
   return (
@@ -45,8 +46,9 @@ const Tearms = () => {
 	<link rel="alternate" hreflang="en-no" 	href="https://watchfreemovie.netlify.app/"/>
 	<link rel="alternate" hreflang="x-default" 	href="https://watchfreemovie.netlify.app/"/>
       </Head>
+     
        <div class="container my-24 px-6 mx-auto">
-        
+       <Translate />
               <section class="mb-32 text-gray-800">
   <div class="flex flex-wrap">
     <div class="grow-0 shrink-0 basis-auto mb-12 md:mb-0 w-full  px-3 lg:px-6">

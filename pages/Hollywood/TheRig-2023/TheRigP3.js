@@ -6,6 +6,8 @@ import React, { useEffect, useState } from 'react';
 import SkipAds from '@components/SkipAds';
 import styles from '@styles/video-player.module.css'
 import Max from 'pages/Max';
+import Translate from '@components/Translate';
+import ShareThis from '@components/ShareThis';
 
 const TheRigP3  = () => {
   useEffect(() => {
@@ -88,9 +90,11 @@ function togglePopup() {
  
 
       </Head>
+
       <div className="bg-gray-900 ">
+        <Translate/>
         <SkipAds />
-    <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch The Rig - Episode 3 </h1>
+    <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch The Rig  </h1>
 
       <div className={styles['iframe-container']}>
       <iframe className="  rounded-3xl  mr-8 flex  border-1 border-blue-600 bg-gray-600 p-2 " webkitAllowFullScreen mozallowfullscreen allowFullScreenclassName=" rounded-3xl  mr-8 flex  border-1 border-blue-600 bg-gray-600 p-2 " src="https://sbhight.com/e/uspnuuhucn0o.html" />
@@ -136,7 +140,7 @@ function togglePopup() {
   </div></div>
  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
     <a href="../TheRig-2023/TRGSR3" > 
-      <h2 >Click To Watch The Rig - Episode 3 (2023) Server 2</h2></a></button>
+      <h2 >Click To Watch The Rig  (2023) Server 2</h2></a></button>
     <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch The Rig Hindi Dubbed (2023) </h1>
 
     <div className={styles['iframe-container']}>
@@ -249,7 +253,7 @@ Download
   Back To Hollywood Section
 
 </button></Link>
-
+ < ShareThis async defer />
 </div>
     </div> </div>
   )

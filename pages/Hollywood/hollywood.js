@@ -3,6 +3,8 @@ import '@styles/styles.module.css'
 import Image from 'next/image'
 import Link from 'next/link'
 import React, { useEffect } from 'react'
+import Translate from '@components/Translate';
+import ShareThis from '@components/ShareThis';
 
 const hollywood = () => {
 
@@ -149,6 +151,7 @@ const schemaData   = {
   <link rel="canonical" href="https://watchfreemovie.netlify.app/Hollywood/" />
   </Head>
 
+  <Translate/>
       <main>
         <div>
       <div className="flex flex-col items-center justify-center space-y-12">
@@ -1044,7 +1047,7 @@ const schemaData   = {
       </main>
 
       </div>
-
+      < ShareThis async defer />
     </div>
   )
 }

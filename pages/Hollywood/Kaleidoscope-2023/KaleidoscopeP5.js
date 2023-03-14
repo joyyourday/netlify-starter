@@ -6,6 +6,8 @@ import React, { useEffect, useState } from 'react';
 import SkipAds from '@components/SkipAds';
 import styles from '@styles/video-player.module.css'
 import Max from 'pages/Max';
+import Translate from '@components/Translate';
+import ShareThis from '@components/ShareThis';
 
 const KaleidoscopeP5  = () => {
   useEffect(() => {
@@ -26,7 +28,7 @@ const schemaData   = {
     "@id": "https://watchfreemovie.netlify.app/Hollywood/Kaleidoscope-2023/KaleidoscopeP5"
     
   },
-  "headline": "Kaleidoscope Episode 5 (2023) Full Movie Online Free | Watch Free Movie™",
+  "headline": "Kaleidoscope (2023) Full Movie Online Free | Watch Free Movie™",
   "image": "https://watchfreemovie.netlify.app/kaleidoscope-2022.webp",
 
   "datePublished": '2023-01-01T09:00:00.000Z',
@@ -45,7 +47,7 @@ const schemaData   = {
         "url": "https://watchfreemovie.netlify.app/og_image.jpg"
       }
     },
-  "description": "Watch Free Movie™ Kaleidoscope Episode 5 (2023) Full Movie Online Free | Watch Movies and TV-Series Online Free"
+  "description": "Watch Free Movie™ Kaleidoscope (2023) Full Movie Online Free | Watch Movies and TV-Series Online Free"
 
 };
 const scrollSearch = myKey => {
@@ -73,25 +75,27 @@ function togglePopup() {
 <meta property="og:site_name" content="Watch Free Movie™ | Watch Movies and TV-Series Online Free" />
 <meta property="og:type" content="movie" />
  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta property="og:title" content="Watch Kaleidoscope Episode 5 (2023) | Watch Free Movie™" />
+<meta property="og:title" content="Watch Kaleidoscope (2023) | Watch Free Movie™" />
 <meta property="og:url" content="https://watchfreemovie.netlify.app/Hollywood/Kaleidoscope-2023/KaleidoscopeP5" />
 <meta property="og:image" content="https://watchfreemovie.netlify.app/kaleidoscope-2022.webp" />
 <meta property="og:image:secure_url" content="https://watchfreemovie.netlify.app/" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Watch Kaleidoscope Episode 5 (2023) | Watch Free Movie™" />
+<meta name="twitter:title" content="Watch Kaleidoscope (2023) | Watch Free Movie™" />
 <meta name="twitter:image" content="https://watchfreemovie.netlify.app/kaleidoscope-2022.webp" />
-<meta name="description" content="Watch Kaleidoscope Full Movie Online on Watch Free Movie™, You can also download Kaleidoscope Episode 5 (2023) in full HD quality to watch later offline." />
+<meta name="description" content="Watch Kaleidoscope Full Movie Online on Watch Free Movie™, You can also download Kaleidoscope (2023) in full HD quality to watch later offline." />
 <script src="../../propler/ads.js" defer></script> 
 <link rel="canonical" href="https://watchfreemovie.netlify.app/Hollywood/Kaleidoscope-2023/" />
  
  
 
       </Head>
+
       <div className="bg-gray-900 ">
+        <Translate/>
         <SkipAds />
-    <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch Kaleidoscope Episode 5 (2023) </h1>
+    <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch Kaleidoscope (2023) </h1>
 
      
     <div className={styles['iframe-container']}>
@@ -151,7 +155,7 @@ function togglePopup() {
   </div>
  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
     <a href="../Kaleidoscope-2023/KDSSR5" > 
-      <h2 >Click To Watch Kaleidoscope Episode 5 (2023) Server 2</h2></a></button>
+      <h2 >Click To Watch Kaleidoscope (2023) Server 2</h2></a></button>
       <div className="flex flex-col space-y-4 m-8">
     <Rating /></div>
     <div className="flex flex-col space-y-4 ...">
@@ -257,7 +261,7 @@ Download
   Back To Hollywood Section
 
 </button></Link>
-
+ < ShareThis async defer />
 </div>
     </div> </div>
   )

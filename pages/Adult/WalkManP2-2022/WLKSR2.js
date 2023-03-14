@@ -6,6 +6,8 @@ import React, { useEffect, useState } from 'react';
 import styles from '@styles/video-player.module.css'
 import AdultSkipAds from '@components/AdultSkipAds'
 import Max from 'pages/Max';
+import Translate from '@components/Translate';
+import ShareThis from '@components/ShareThis';
 
 
 
@@ -92,7 +94,9 @@ function togglePopup() {
 
 
       </Head>
+
       <div className="bg-gray-900 ">
+        <Translate/>
          <AdultSkipAds />
     <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch Walkman Part 2 (2022) </h1>
 
@@ -202,9 +206,11 @@ Download
   Back To Adult Section
 
 </button></Link>
-
+< ShareThis async defer />
 </div>
     </div> </div>
+
+
   )
 }
 

@@ -6,6 +6,8 @@ import React, { useEffect, useState } from 'react';
 import SkipAds from '@components/SkipAds';
 import styles from '@styles/video-player.module.css'
 import Max from 'pages/Max';
+import Translate from '@components/Translate';
+import ShareThis from '@components/ShareThis';
 
 
 const CarnivalRowP1  = () => {
@@ -27,7 +29,7 @@ const schemaData   = {
     "@id": "https://watchfreemovie.netlify.app/Hollywood/CarnivalRow-2023/CarnivalRowP1"
     
   },
-  "headline": "Carnival Row Episode 1 (2023) Full Movie Online Free| Watch Free Movie™",
+  "headline": "Carnival Row Complete Season 2 (2023) Full Movie Online Free| Watch Free Movie™",
   "image": "https://watchfreemovie.netlify.app/carnival-row-2023.webp",
 
   "datePublished": '2023-01-01T09:00:00.000Z',
@@ -46,7 +48,7 @@ const schemaData   = {
         "url": "https://watchfreemovie.netlify.app/og_image.jpg"
       }
     },
-  "description": "Watch Free Movie™ Carnival Row Episode 1 (2023) Full Movie Online Free| Watch Movies and TV-Series Online Free"
+  "description": "Watch Free Movie™ Carnival Row Complete Season 2 (2023) Full Movie Online Free| Watch Movies and TV-Series Online Free"
 
 };
 const scrollSearch = myKey => {
@@ -65,7 +67,7 @@ function togglePopup() {
     dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
   />
      <Head>
-     <title>Watch Carnival Row EP 1 (2023) Full Movie Online Free | Watch Free Movie™</title>
+     <title>Watch Carnival Row Complete Season 2 (2023) Full Movie Online Free | Watch Free Movie™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 <meta name="keywords" content="Watch Free Movie,full movie online free,HD movies,movie 2023,carnival row episode 1 movie,index of carnival row episode 1 movie,carnival row episode 1 movie 2023,carnival row episode 1 tv series,carnival row episode 1 movie online,watch carnival row episode 1 movie,dubbed movies,carnival row episode 1 movie download,carnival row episode 1 movie latest,carnival row episode 1 movie videos,carnival row episode 1 movie trailer,carnival row episode 1 movie cast,carnival row episode 1 movie story,carnival row episode 1 movie release date,carnival row episode 1 movie watch online free,carnival row episode 1 movie free download,carnival row episode 1 movie download" />
 <meta property="og:locale" content="en_US" />   
@@ -89,21 +91,80 @@ function togglePopup() {
  
 
       </Head>
+
       <div className="bg-gray-900 ">
+      <Translate/>
         <SkipAds />
-    <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch Carnival Row Episode 1 (2023) </h1>
+    <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch Carnival Row Complete Season 2 (2023) </h1>
    
     <div className={styles['iframe-container']}>
-       <iframe className="  rounded-3xl  mr-8 flex  border-1 border-blue-600 bg-gray-600 p-2 " webkitAllowFullScreen mozallowfullscreen allowFullScreen src="https://sbbrisk.com/e/k0ems3ya8icz.html" />
+       <iframe className="  rounded-3xl  mr-8 flex  border-1 border-blue-600 bg-gray-600 p-2 " webkitAllowFullScreen mozallowfullscreen allowFullScreen src="https://sbbrisk.com/e/8qsecyrojny5.html" />
     </div>    
     <h3 className="mb-9 text-bg  text-black-500 text-red-600 text-center xl:px-4 ">*Note: Pls Select the in the Player to Change your Language of your Choice and Setting  to Change the Quality of Video.</h3>
  
-    <div class="grid grid-cols-1 sm:grid-cols-2 x:grid-cols-3 gap-4 ">
+   <div class="grid grid-cols-2 sm:grid-cols-5 x:grid-cols-3 gap-4">
     
     <div class="flex justify-center">
     <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP1">
-      <button class="bg-blue-500  text-white font-bold py-2  px-4 rounded-xl   hover:bg-blue-700 focus:bg-blue-700 focus:outline-none focus:ring-0 active:bg-blue-800 transition duration-150 ease-in-out hover:scale-110">
-      Episode 1
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+    Episode 1
+      </button></Link>
+    </div>
+    <div class="flex justify-center">
+      <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP2">
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+    Episode 2
+      </button></Link>
+    </div>
+    <div class="flex justify-center">
+    <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP3">
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+    Episode 3
+      </button></Link>
+    </div>
+    <div class="flex justify-center">
+    <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP4">
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+    Episode 4
+      </button></Link>
+    </div>
+    <div class="flex justify-center">
+    <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP5">
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+     Episode 5
+      </button></Link>
+    </div>
+    <div class="flex justify-center ">
+    <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP6">
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+      Episode 6
+      </button></Link>
+      </div>
+      <div class="flex justify-center ">
+      <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP7">
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+      Episode 7
+      </button></Link>
+    </div>
+    <div class="flex justify-center ">
+    <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP8">
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+      Episode 8
+      </button></Link>
+    </div>
+    </div>
+<h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch Carnival Row (2023) Hindi Dubbed  </h1>
+
+
+<div className={styles['iframe-container']}>
+      <iframe className="  rounded-3xl  mr-8 flex  border-1 border-blue-600 bg-gray-600 p-2 " webkitAllowFullScreen mozallowfullscreen allowFullScreen src="https://sbbrisk.com/e/085hdiv9tdr2.html" />
+    </div>   
+    <div class="grid grid-cols-2 sm:grid-cols-5 x:grid-cols-3 gap-4">
+    
+    <div class="flex justify-center">
+    <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP1">
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+      Episode 1 
       </button></Link>
     </div>
     <div class="flex justify-center">
@@ -112,19 +173,47 @@ function togglePopup() {
       Episode 2
       </button></Link>
     </div>
-
-</div>
-<h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch Carnival Row (2023) Hindi Dubbed  </h1>
-
-
-<div className={styles['iframe-container']}>
-      <iframe className="  rounded-3xl  mr-8 flex  border-1 border-blue-600 bg-gray-600 p-2 " webkitAllowFullScreen mozallowfullscreen allowFullScreen src="https://sbbrisk.com/e/nhm22cvex1oo.html" />
-    </div>   
+    <div class="flex justify-center">
+      <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP3">
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+      Episode 3 
+      </button></Link>
+    </div>
+    <div class="flex justify-center">
+      <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP4">
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+      Episode 4
+      </button></Link>
+    </div>
+    <div class="flex justify-center">
+    <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP5">
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+      Episode 5 
+      </button></Link>
+    </div>
+    <div class="flex justify-center">
+    <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP6">
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+      Episode 6
+      </button></Link>
+    </div>
+    <div class="flex justify-center">
+    <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP7">
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+      Episode 7
+      </button></Link>
+    </div>
+    <div class="flex justify-center">
+    <Link href="../../Hollywood/CarnivalRow-2023/CarnivalRowP8">
+  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
+      Episode 8
+      </button></Link>
+    </div></div>
 
 <h3 className="mb-9 text-bg  text-black-500 text-red-600 text-center xl:px-4 ">*Note: Pls Select the in the Player to Change your Language of your Choice and Setting  to Change the Quality of Video.</h3>
-<button className=" inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-2 mr-2  overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900  group-hover:bg-opacity-0 " >
+<button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
     <a href="../CarnivalRow-2023/CLRSR1" > 
-      <h2 >Click To Watch CarnivalRow Episode 1 (2023) Server 2</h2></a></button>
+      <h2 >Click To Watch CarnivalRow Complete Season 2 (2023) Server 2</h2></a></button>
        <div className="flex flex-col space-y-4 m-8">
     <Rating /></div>
     <div className="flex flex-col space-y-4 ...">
@@ -208,14 +297,14 @@ function togglePopup() {
 
     <div className="flex flex-col py-10  text-blue-600 text-center items-center justify-center">
  
- <h3  className="text-xl font-bold leading-normal mt-0 mb-2 text-blue-600 ">Carnival Row Episode 1 (2023) </h3>
+ <h3  className="text-xl font-bold leading-normal mt-0 mb-2 text-blue-600 ">Carnival Row Complete Season 2 (2023) </h3>
  <Link href="../../Hollywood/CarnivalRow-2023/DownloadCLR1">
 <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
 Download 
 
 </button></Link>
 
-<h3 className="text-xl font-bold leading-normal mt-0 mb-2 text-blue-600 ">Carnival Row Episode 1 (2023)</h3>
+<h3 className="text-xl font-bold leading-normal mt-0 mb-2 text-blue-600 ">Carnival Row Complete Season 2 (2023)</h3>
 <Link href="../../Hollywood/CarnivalRow-2023/DownloadCLR2">
 <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
 Download 
@@ -230,7 +319,7 @@ Download
   Back To Hollywood Section
 
 </button></Link>
-
+ < ShareThis async defer />
 </div>
     </div> </div>
   )

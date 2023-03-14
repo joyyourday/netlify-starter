@@ -1,5 +1,6 @@
 import React from 'react'
 import Head from 'next/head'
+import Translate from '@components/Translate';
 
 const contact = () => {
   return (
@@ -45,6 +46,7 @@ const contact = () => {
 	<link rel="alternate" hreflang="en-no" 	href="https://watchfreemovie.netlify.app/"/>
 	<link rel="alternate" hreflang="x-default" 	href="https://watchfreemovie.netlify.app/"/>
       </Head>
+      <Translate />
 <div class="container my-24 px-6 mx-auto">
 
 

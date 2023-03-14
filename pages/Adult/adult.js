@@ -1,8 +1,9 @@
 import Head from 'next/head'
 import '@styles/styles.module.css'
 import Image from 'next/image'
-import Link from 'next/link'
 import React, { useEffect } from 'react'
+import Translate from '@components/Translate';
+import ShareThis from '@components/ShareThis';
 
 const adult = () => {
   useEffect(() => {
@@ -146,7 +147,8 @@ const schemaData   = {
   <link rel="manifest" href="/site.webmanifest"></link>
   <link rel="canonical" href="https://watchfreemovie.netlify.app/Adult/" />
   </Head>
-       
+<Translate/>
+
       <main>
         <div>
       <div className="flex flex-col items-center justify-center space-y-12">
@@ -953,6 +955,7 @@ const schemaData   = {
       </main>
 
       </div>
+      < ShareThis async defer />
     </div>
   )
 }

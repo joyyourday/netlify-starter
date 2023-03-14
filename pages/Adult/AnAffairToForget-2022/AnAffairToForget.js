@@ -6,6 +6,8 @@ import React, { useEffect, useState } from 'react';
 import styles from '@styles/video-player.module.css'
 import AdultSkipAds from '@components/AdultSkipAds'
 import Max from 'pages/Max';
+import Translate from '@components/Translate';
+import ShareThis from '@components/ShareThis';
 
 
 
@@ -93,6 +95,7 @@ function togglePopup() {
  
 
       </Head>
+<Translate/>
       
       <div className="bg-[#1a202c] ">
         <AdultSkipAds/>
@@ -205,9 +208,11 @@ Download
   Back To Adult Section
 
 </button></Link>
-
+< ShareThis async defer />
 </div>
     </div> </div>
+
+
   )
 }
 

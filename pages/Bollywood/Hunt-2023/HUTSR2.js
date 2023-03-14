@@ -6,6 +6,8 @@ import SkipAds from '@components/SkipAds'
 import React, { useState, useEffect } from 'react';
 import styles from '@styles/video-player.module.css'
 import Max from 'pages/Max';
+import Translate from '@components/Translate';
+import ShareThis from '@components/ShareThis';
 
 
 
@@ -93,6 +95,7 @@ function togglePopup() {
  
 
       </Head>
+<Translate/>
       <div className="bg-gray-900 ">
       <SkipAds />
     <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch Hunt (2023) </h1>
@@ -210,7 +213,7 @@ Download
   Back To Bollywood Section
  
 </button></Link>
-
+ < ShareThis async defer />
 </div>
     </div>
    

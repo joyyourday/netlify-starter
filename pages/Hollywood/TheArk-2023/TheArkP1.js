@@ -6,6 +6,8 @@ import React, { useEffect, useState } from 'react';
 import SkipAds from '@components/SkipAds';
 import styles from '@styles/video-player.module.css'
 import Max from 'pages/Max';
+import Translate from '@components/Translate';
+import ShareThis from '@components/ShareThis';
 
 const TheArkP1  = () => {
   useEffect(() => {
@@ -64,7 +66,7 @@ function togglePopup() {
     dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
   />
      <Head>
-     <title>Watch The Ark S01E01 (2023) Full Movie Online Free | Watch Free Movie™</title>
+     <title>Watch The Ark (2023) Full Movie Online Free | Watch Free Movie™</title>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
 <meta name="keywords" content="Watch Free Movie,full movie online free,HD movies,movie 2023,the ark movie,index of the ark movie,the ark movie 2023,the ark tv series,the ark movie online,watch the ark movie,dubbed movies,the ark movie download,the ark movie latest,the ark movie videos,the ark movie trailer,the ark movie cast,the ark movie story,the ark movie release date,the ark movie watch online free,the ark movie free download,the ark movie download" />
 <meta property="og:locale" content="en_US" />   
@@ -73,23 +75,25 @@ function togglePopup() {
 <meta property="og:site_name" content="Watch Free Movie™ | Watch Movies and TV-Series Online Free" />
 <meta property="og:type" content="movie" />
  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta property="og:title" content="Watch The Ark S01E01 (2023) | Watch Free Movie™" />
+<meta property="og:title" content="Watch The Ark (2023) | Watch Free Movie™" />
 <meta property="og:url" content="https://watchfreemovie.netlify.app/Hollywood/TheArk-2023/TheArkP1" />
 <meta property="og:image" content="https://watchfreemovie.netlify.app/the-ark-2023.webp" />
 <meta property="og:image:secure_url" content="https://watchfreemovie.netlify.app/" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="720" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="Watch The Ark S01E01 (2023) | Watch Free Movie™" />
+<meta name="twitter:title" content="Watch The Ark (2023) | Watch Free Movie™" />
 <meta name="twitter:image" content="https://watchfreemovie.netlify.app/the-ark-2023.webp" />
-<meta name="description" content="Watch The Ark Full Movie Online on Watch Free Movie™, You can also download The Ark S01E01 (2023) in full HD quality to watch later offline." />
+<meta name="description" content="Watch The Ark Full Movie Online on Watch Free Movie™, You can also download The Ark (2023) in full HD quality to watch later offline." />
 <script src="../../propler/ads.js" defer></script> 
 <link rel="canonical" href="https://watchfreemovie.netlify.app/Hollywood/TheArk-2023/" />  
 
       </Head>
+
       <div className="bg-gray-900 ">
+        <Translate/>
         <SkipAds />
-    <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch The Ark S01E01 (2023) </h1>
+    <h1 className="mb-4 py-5 font-bold leading-none tracking-tight text-white  text-center md:text-2xl lg:text-3xl dark:text-white">Watch The Ark (2023) </h1>
 
     <div className={styles['iframe-container']}>
       <iframe className="  rounded-3xl  mr-8 flex  border-1 border-blue-600 bg-gray-600 p-2 " webkitAllowFullScreen mozallowfullscreen allowFullScreen src="https://sbbrisk.com/e/2i6xpbyj2ufo.html" />
@@ -130,7 +134,7 @@ function togglePopup() {
 </div>
  <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
     <a href="../TheArk-2023/ARKSR1" > 
-      <h2 >Click To Watch The Ark S01E01 (2023) Server 2</h2></a></button>
+      <h2 >Click To Watch The Ark (2023) Server 2</h2></a></button>
        <div className="flex flex-col space-y-4 m-8">
  
     <Rating /></div>
@@ -215,14 +219,14 @@ function togglePopup() {
 
     <div className="flex flex-col py-10  text-blue-600 text-center items-center justify-center">
  
- <h3  className="text-xl font-bold leading-normal mt-0 mb-2 text-blue-600 ">The Ark S01E01 (2023) </h3>
+ <h3  className="text-xl font-bold leading-normal mt-0 mb-2 text-blue-600 ">The Ark (2023) </h3>
  <Link href="../../Hollywood/TheArk-2023/DownloadARK1">
 <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
 Download 
 
 </button></Link>
 
-<h3 className="text-xl font-bold leading-normal mt-0 mb-2 text-blue-600 ">The Ark S01E01 (2023)</h3>
+<h3 className="text-xl font-bold leading-normal mt-0 mb-2 text-blue-600 ">The Ark (2023)</h3>
 <Link href="../../Hollywood/TheArk-2023/DownloadARK2">
 <button className="relative inline-flex items-center rounded-3xl my-5 justify-center p-0.5 mb-5 mr-2 overflow-hidden text-xl font-bold text-gray-900 group bg-gradient-to-br from-red-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800 scale-100 hover:scale-110  cursor-pointer px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 group-hover:bg-opacity-0 ">
 Download 
@@ -237,7 +241,7 @@ Download
   Back To Hollywood Section
 
 </button></Link>
-
+ < ShareThis async defer />
 </div>
     </div> </div>
   )

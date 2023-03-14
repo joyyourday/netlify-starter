@@ -1,8 +1,9 @@
 
 import Head from 'next/head'
 import Image from 'next/image'
-
 import React, { useEffect } from 'react'
+import Translate from '@components/Translate';
+import ShareThis from '@components/ShareThis';
 
 export default function Page4() {
   useEffect(() => {
@@ -103,7 +104,7 @@ const schemaData   = {
 <div className="bg-gray-900 ">
 
 <Head>
-        <title>Watch Free Movie™ Page3</title>
+        <title>Watch Free Movie™ Page4</title>
       
         <meta name="robots" content="index, follow" />  
         <meta name="revisit-after" content="1 days" />
@@ -147,6 +148,7 @@ const schemaData   = {
   <link rel="manifest" href="/site.webmanifest"></link>
   <link rel="canonical" href="https://watchfreemovie.netlify.app/Page4" />
       </Head>
+<Translate />
 <main>
         <div>
         
@@ -339,7 +341,7 @@ const schemaData   = {
       </main>
       </div>
 
-
+      < ShareThis async defer />
 </div>
     )
   }
